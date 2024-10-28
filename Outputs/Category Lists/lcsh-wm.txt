@@ -1,0 +1,78 @@
+depression in women;	depression in men
+gifted women;	gifted men
+african american women in motion pictures;	african american men in motion pictures
+cantatas (women's voices);	cantatas (men's voices)
+homeless women;	homeless men
+feminine beauty (aesthetics);	masculine beauty (aesthetics)
+women in education;	men in education
+jewish women in literature;	jewish men in literature
+asian american women in motion pictures;	asian american men in motion pictures
+heterosexual women in motion pictures;	heterosexual men in motion pictures
+women's health services;	men's health services
+women's choirs;	men's choirs
+urban women;	urban men
+women in music;	men in music
+navajo women;	navajo men
+indigenous women;	indigenous men
+hispanic american bisexual women;	hispanic american bisexual men
+female friendship on television;	male friendship on television
+women in comics;	men in comics
+african american women in comics;	african american men in comics
+cantatas, sacred (women's voices);	cantatas, sacred (men's voices)
+cantatas, secular (women's voices);	cantatas, secular (men's voices)
+choruses, sacred (women's voices);	choruses, sacred (men's voices)
+choruses, sacred (women's voices, 4 parts);	choruses, sacred (men's voices, 4 parts)
+choruses, sacred (women's voices, 4 parts), unaccompanied;	choruses, sacred (men's voices, 4 parts), unaccompanied
+choruses, sacred (women's voices), unaccompanied;	choruses, sacred (men's voices), unaccompanied
+choruses, sacred (women's voices) with instrumental ensemble;	choruses, sacred (men's voices) with instrumental ensemble
+choruses, sacred (women's voices) with orchestra;	choruses, sacred (men's voices) with orchestra
+choruses, sacred (women's voices) with organ;	choruses, sacred (men's voices) with organ
+choruses, sacred (women's voices) with piano;	choruses, sacred (men's voices) with piano
+choruses, secular (women's voices);	choruses, secular (men's voices)
+choruses, secular (women's voices, 4 parts), unaccompanied;	choruses, secular (men's voices, 4 parts), unaccompanied
+choruses, secular (women's voices), unaccompanied;	choruses, secular (men's voices), unaccompanied
+choruses, secular (women's voices) with band;	choruses, secular (men's voices) with band
+choruses, secular (women's voices) with electronics;	choruses, secular (men's voices) with electronics
+choruses, secular (women's voices) with instrumental ensemble;	choruses, secular (men's voices) with instrumental ensemble
+choruses, secular (women's voices) with orchestra;	choruses, secular (men's voices) with orchestra
+choruses, secular (women's voices) with piano;	choruses, secular (men's voices) with piano
+choruses, secular (women's voices) with string orchestra;	choruses, secular (men's voices) with string orchestra
+choruses (women's voices);	choruses (men's voices)
+choruses (women's voices), unaccompanied;	choruses (men's voices), unaccompanied
+choruses (women's voices) with piano;	choruses (men's voices) with piano
+female impersonators;	male impersonators
+female impersonators in motion pictures;	male impersonators in motion pictures
+masses (women's voices);	masses (men's voices)
+women in art;	men in art
+women in church work;	men in church work
+women in literature;	men in literature
+women in motion pictures;	men in motion pictures
+women's clothing;	men's clothing
+women's clothing industry;	men's clothing industry
+middle-aged women;	middle-aged men
+requiems (women's voices);	requiems (men's voices)
+sex discrimination against women;	sex discrimination against men
+skiing for women;	skiing for men
+wild women;	wild men
+wild women in literature;	wild men in literature
+working-women's clubs;	working-men's clubs
+young women's christian associations;	young men's christian associations
+women's studies;	men's studies
+jewish women;	jewish men
+women in mass media;	men in mass media
+abusive women;	abusive men
+women in popular culture;	men in popular culture
+masses (women's voices), unaccompanied;	masses (men's voices), unaccompanied
+social work with women;	social work with men
+older women in literature;	older men in literature
+women in the bible;	men in the bible
+overweight women;	overweight men
+young women in literature;	young men in literature
+abused women;	abused men
+women on television;	men on television
+psychologically abused women;	psychologically abused men
+women in advertising;	men in advertising
+wild women in art;	wild men in art
+rural women;	rural men
+african american women in popular culture;	african american men in popular culture
+hiv-positive women;	hiv-positive men
