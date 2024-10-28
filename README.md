@@ -1,2 +1,2 @@
 # Exploring-Biases-in-Gendered-Categories
-An exploration of gender asymmetries in human category systems
+In many human-centric categories, men are perceived as the more default or typical members whereas women are perceived as more atypical. This bias can lead to asymmetries in categories marked by gendered language. This project explores the extent to which this asymmetry exists in three category systems: the Library of Congress Subject Headings (LCSH), English Wikipedia, and the English language. Specifically, we compare the proportions of gendered categories (subject headings, page titles, or noun phrases) for men versus women and determine if and how these proportions have changed with time.
