@@ -22,19 +22,15 @@ def process_nps(fp, year, min_freq=1):
 
 
 def combine_on_gender(df):
-    df['PHRASE'] = df['PHRASE'].str.replace(r'\bmen\b|\bmale\b|\bmasculine\b', '<M>', regex=True)
-    df['PHRASE'] = df['PHRASE'].str.replace(r'\bwomen\b|\bfemale\b|\bfeminine\b', '<W>', regex=True)
+    df['PHRASE'] = df['PHRASE'].str.replace(r'\bmen\b|\bmale\b|\bmasculine\b|\bman\b|\bmales\b', '<M>', regex=True)
+    df['PHRASE'] = df['PHRASE'].str.replace(r'\bwomen\b|\bfemale\b|\bfeminine\b|\bwoman\b|\bfemales\b', '<W>', regex=True)
     
-    # df['PHRASE'] = df['PHRASE'].str.replace(r'\ba |\bthe |\bthis |\bthat |\bthose |\bthese ', '', regex=True)
+    # I don't want to combine a/the/this/that/etc. with <M> or <W> if they are the only words in the phrase
+    # because I want to keep the total singleton counts for <M> and <W> separate
+    df['PHRASE'] = df['PHRASE'].apply(lambda p: re.sub(r'\ba |\bthe |\bthis |\bthat |\bthose |\bthese ', r'', p) if len(p.split()) > 2 else p)
 
-    df['HEAD'] = df['HEAD'].str.replace(r'\bmen\b|\bmale\b|\bmasculine\b', '<M>', regex=True)
-    df['HEAD'] = df['HEAD'].str.replace(r'\bwomen\b|\bfemale\b|\bfeminine\b', '<W>', regex=True)
-
-    # specifiers = ['a', 'the', 'this', 'that', 'these', 'those']
-    # for spec in specifiers:
-    #     df['PHRASE'] = df['PHRASE'].str.replace(r'\b' + spec + r' <M>', '<M>', regex=True)
-    # for spec in specifiers:
-    #     df['PHRASE'] = df['PHRASE'].str.replace(r'\b' + spec + r' <W>', '<W>', regex=True)
+    df['HEAD'] = df['HEAD'].str.replace(r'\bmen\b|\bmale\b|\bmasculine\b|\bman\b|\bmales\b', '<M>', regex=True)
+    df['HEAD'] = df['HEAD'].str.replace(r'\bwomen\b|\bfemale\b|\bfeminine\b|\bwoman\b|\bfemales\b', '<W>', regex=True)
 
     return df.groupby(['HEAD', 'PHRASE'], as_index=False).sum()
 

@@ -353,3 +353,24 @@ def compareFreqs(lcshData, includeZero=False, normalize=False):
     if normalize:
         contingency = contingency/contingency.sum(axis=1)[:,None]
     return contingency
+
+def get_ngram_over_threshold(gram_df, thresholds):
+    gram_lists = []
+    for t in thresholds:
+        greater_than_t = gram_df[gram_df['FREQ'] >= t]['PHRASE'].values
+        gram_lists.append(greater_than_t)
+    return gram_lists
+
+def get_gendered_ngrams(gram_list):
+    m_grams = [gram for gram in gram_list if '<M>' in gram]
+    w_grams = [gram for gram in gram_list if '<W>' in gram]
+    return m_grams, w_grams
+
+def get_ngram_cases(m_grams, w_grams):
+    no_M = {re.sub(r'<M>', '', gram):gram for gram in m_grams}
+    no_W = {re.sub(r'<W>', '', gram):gram for gram in w_grams}
+    m = [(no_M[k], None) for k in set(no_M.keys()) - set(no_W.keys())]
+    w = [(None, no_W[k]) for k in set(no_W.keys()) - set(no_M.keys())]
+    wm = [(no_M[k], no_W[k]) for k in set(no_M.keys()) & set(no_W.keys())]
+    return m, w, wm
+        
