@@ -1,0 +1,402 @@
+Accountants, .37
+Acrobats,.57
+Acupuncturists,.59
+Administrative workers,.59
+Admirals,.25
+Aerobics instructors,.7
+Air traffic controllers,.32
+Alcoholics,.41
+Anglers,.28
+Animators,.39
+Antique dealers,.38
+Apprentices,.4
+Architects,.36
+Archivists,.44
+Artists,.51
+Assistants,.65
+Assistant chefs,.44
+Astrologists,.37
+Astronauts,.23
+Astronomers,.32
+Athletes,.44
+Au pairs,.77
+Auctioneers,.31
+Authors,.51
+Babysitters,.78
+Bakers,.49
+Ballet dancers,.71
+Bank clerks,.43
+Bankers,.32
+Barbers,.2
+Bartenders,.47
+Baseball players,.2
+Basketball players,.23
+Bass players,.35
+Beauticians,.84
+Bikers,.3
+Bingo players,.7
+Biologists,.46
+Birth attendants,.75
+Blacksmiths,.21
+Bookkeepers,.48
+Bosses,.37
+Boutique owners,.77
+Boxers,.21
+Bricklayers,.16
+Building contractors,.21
+Bus drivers,.25
+Butchers,.21
+Butlers,.2
+Cabinet ministers,.28
+Cake decorators,.72
+Camera operators,.36
+Campers,.41
+Canteen assistants,.72
+Car mechanics,.21
+Card players,.34
+Care workers,.72
+Caregivers,.71
+Caretakers,.31
+Carpenters,.25
+Cartoonists,.36
+Cashiers,.59
+Caterers,.58
+Celebrities,.54
+Chair persons,.37
+Chamber-maids,.82
+Cheerleaders,.83
+Chefs,.37
+Chemists,.46
+Child educators,.67
+Child-minders,.78
+Chiropractors,.46
+Chocolate lovers,.7
+Choreographers,.59
+Cinema goers,.53
+Clairvoyants,.64
+Cleaners,.71
+Clerks,.42
+Clients,.51
+Climbers,.34
+Clinical psychologists,.58
+Clowns,.22
+Colonels,.23
+Comedians,.3
+Company directors,.33
+Composers,.35
+Computer programmers,.26
+Computer specialists,.26
+Computer technicians,.26
+Conquerors,.23
+Conservationists,.5
+Construction workers,.19
+Cooks,.5
+Coordinators,.5
+Counseling psychologists,.69
+Counsellors,.65
+Couriers,.34
+Court reporters,.46
+Craft workers,.52
+Crane operators,.19
+Criminals,.31
+Cult members,.42
+Curators,.44
+Customers,.58
+Customs inspectors,.4
+Customs officers,.38
+Cyclists,.41
+Dance instructors,.7
+Dancers,.65
+Data processors,.38
+Database administrators,.47
+Deacons,.37
+Dental hygienists,.57
+Dental technicians,.5
+Dentists,.38
+Deputies,.41
+Designers,.53
+Detectives,.33
+Dieticians,.65
+Diplomats,.36
+Doctors of Philosophy,.37
+Door keepers,.29
+Dressmakers,.75
+Drivers,.38
+Driving instructors,.35
+Drug addicts,.43
+Drug dealers,.24
+Drummers,.26
+Economists,.33
+Editors,.47
+Educational psychologists,.63
+Electricians,.21
+Embezzlers,.37
+Engine-drivers,.23
+Engineers,.24
+Entertainers,.46
+Environmentalists,.54
+Estate agents,.45
+Executives,.36
+Executors,.26
+Exercise instructors,.49
+Exotic dancers,.8
+Explorers,.33
+Factory managers,.28
+Fans,.56
+Farmers,.27
+Fashion models,.7
+Fencers,.36
+Fig. skaters,.67
+Film directors,.31
+Film stars,.51
+Financial advisers,.36
+Financial analysts,.35
+Firefighters,.21
+Flight attendants,.71
+Florists,.77
+Flute players,.64
+Football coaches,.19
+Football players,.21
+Forensic psychologists,.48
+Forest rangers,.25
+Fortune tellers,.75
+Funeral directors,.32
+Game wardens,.33
+Gardeners,.43
+Generals,.25
+General managers,.42
+Geologists,.42
+Goalkeepers,.2
+Goldsmiths,.33
+Golfers,.27
+Government officials,.34
+Governors,.33
+Graphic designers,.42
+Groundkeepers,.27
+Groupies,.73
+Guards,.23
+Guitar players,.37
+Gymnasts,.64
+Gynaecologists,.5
+Hairdressers,.7
+Heads of department,.41
+Head teachers,.49
+Health visitors,.66
+Heavy equipment operators,.15
+Historians,.39
+History professors,.35
+Hitchhikers,.37
+Homeless persons,.33
+Horse riders,.64
+Horse trainers,.61
+Hospital orderlies,.52
+Hotel guests,.49
+Hotel managers,.42
+Housekeepers,.74
+Humanitarians,.53
+Humanities professors,.46
+Hunters,.2
+Ice skaters,.62
+Infant teachers,.76
+Informants,.42
+Inmates,.31
+Innkeepers,.41
+Interior decorators,.62
+Interpreters,.55
+Inventors,.31
+IT consultants,.29
+Jailors,.33
+Janitors,.27
+Jewelers,.49
+Joggers,.53
+Journalists,.53
+Judges,.34
+Jugglers,.36
+Jurors,.47
+Killers,.27
+Kindergarten teachers,.79
+Knitters,.81
+Lab technicians,.44
+Landscape gardeners,.4
+Law clerks,.41
+Law professors,.38
+Lawyers,.41
+Leaders,.36
+Librarians,.67
+Lieutenants,.25
+Lifeguards,.38
+Lighthouse keepers,.27
+Lorry drivers,.19
+Magicians,.27
+Magician’s assistants,.78
+Make up artists,.78
+Managers,.41
+Manicurists,.84
+Mathematicians,.32
+Mayors,.31
+Mechanics,.2
+Medical doctors,.4
+Members of the armed forces,.24
+Members of parliament,.28
+Metallurgists,.4
+Meteorologists,.37
+Millionaires,.34
+Miners,.16
+Models,.64
+Mountain climbers,.33
+Murderers,.28
+Musicians,.47
+Nannies,.82
+Neighbours,.52
+Neurologists,.42
+Neurosurgeons,.34
+News readers,.49
+Novelists,.54
+Nurses,.74
+Nursery teachers,.8
+Nutritionists,.66
+Occupational therapists,.61
+Oceanographers,.47
+Office workers,.51
+Orchestra conductors,.31
+Orthodontists,.43
+Palm readers,.77
+Parachutists,.36
+Parents,.52
+Pastry chefs,.5
+Patients,.52
+Pawnbrokers,.31
+Pediatricians,.52
+Pensioners,.52
+Personal trainers,.39
+Pharmacists,.53
+Philanthropists,.48
+Photographers,.46
+Physicians,.37
+Physicists,.32
+Physics students,.28
+Physiotherapists,.51
+Piano players,.51
+Pilots,.24
+Plumbers,.21
+Poets,.45
+Police inspectors,.34
+Police officers,.36
+Police sergeants,.3
+Political activists,.46
+Politicians,.29
+Porters,.27
+Postal workers,.34
+Postmen,.25
+Presidents,.16
+Priests,.16
+Primary school teachers,.75
+Prison guards,.26
+Prisoners,.3
+Private detectives,.31
+Probation officers,.37
+Professional athletes,.42
+Professors,.38
+Projectionists,.44
+Proofreaders,.53
+Prostitutes,.81
+Protestors,.49
+Psychiatrists,.55
+Psychology students,.76
+Publishers,.47
+Racing car drivers,.19
+Radio announcers,.43
+Radio technicians,.34
+Rape victims,.82
+Rapists,.15
+Receptionists,.75
+Reporters,.51
+Rescue workers,.36
+Research scientists,.42
+Road workers,.19
+Roadies,.38
+Romantic novelists,.71
+Roofers,.19
+Rubbish collectors,.18
+Runners,.46
+Sailors,.27
+Sales assistants,.64
+Salespersons,.49
+Screenwriters,.4
+Scuba divers,.41
+Sculptors,.45
+Secretaries,.75
+Serial killers,.23
+Sheriffs,.23
+Shoemakers,.34
+Shoplifters,.46
+Shoppers,.7
+Singers,.57
+Skiers,.44
+Smugglers,.32
+Social workers,.7
+Socialites,.63
+Soldiers,.22
+Sound engineers,.29
+Spectators,.44
+Speech therapists,.65
+Sports coachs,.33
+Spies,.38
+Statisticians,.32
+Stockbrokers,.28
+Strippers,.69
+Structural engineers,.26
+Students,.55
+Sunbathers,.68
+Supervisors,.45
+Surfers,.36
+Surgeons,.33
+Suspects,.36
+Swimmers,.49
+Switchboard operators,.52
+Synchronized swimmers,.73
+Systems analysts,.33
+Tailors,.32
+Tap dancers,.64
+Tarot card readers,.73
+Tattooists,.36
+Tax advisors,.34
+Taxi drivers,.2
+Taxidermists,.35
+Technicians,.35
+Technologists,.34
+Telephone operators,.56
+Tennis players,.47
+Terrorists,.19
+Theatre directors,.43
+Thieves,.35
+Ticket inspectors,.29
+Toolmakers,.24
+Tour guides,.49
+Trade unionists,.4
+Traffic engineers,.26
+Train conductors,.25
+Translators,.57
+Travel agents,.58
+Trumpet players,.37
+Tuba players,.43
+Typists,.64
+Tyre fitters,.21
+Undertakers,.25
+Vets,.5
+Vice chancellors,.32
+Victims,.63
+Violinists,.62
+Wardens,.35
+Weavers,.7
+Wedding planners,.78
+Weight lifters,.24
+Welders,.23
+Wine connoisseurs,.38
+Wood carvers,.25
+Wood workers,.24
+Workers,.42
+Wrestlers,.2
+Writers,.5
+X-ray technicians,.47
+Zoologists,.49
