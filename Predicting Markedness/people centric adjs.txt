@@ -1,30 +1,53 @@
-canadian <.>    .5
-american <.>    .5
-australian <.>  .5
-british <.>     .5
-french <.>      .5
-german <.>      .5
-italian <.>     .5
-japanese <.>    .5
-korean <.>      .5
-mexican <.>     .5
-russian <.>     .5
-spanish <.>     .5
-moroccan <.>    .5
-russian <.>     .5
-chinese <.>     .5
-indian <.>      .5
-thai <.>        .5
-vietnamese <.>  .5
-brazilian <.>   .5
-african <.>     .5
-christian <.>   .5
-muslim <.>      .5
-jewish <.>      .5
-buddhist <.>    .5
-hindu <.>       .5
-sikh <.>        .5
-shinto <.>      .5
-catholic <.>    .5
-protestant <.>  .5
-mormon <.>      .5
+canadian <.>
+american <.>
+australian <.>
+british <.> 
+irish <.>
+scottish <.>
+welsh <.>
+french <.>
+german <.>
+austrian <.>
+italian <.>
+dutch <.>
+belgian <.>
+swiss <.>
+swedish <.>
+norwegian <.>
+danish <.>
+finnish <.>
+japanese <.>
+korean <.>
+mexican <.>
+russian <.>
+spanish <.>
+moroccan <.>
+russian <.>
+chinese <.>
+indian <.>
+thai <.> 
+turkish <.>
+vietnamese <.>
+brazilian <.>
+argentinian <.>
+peruvian <.>
+chilean <.>
+colombian <.>
+venezuelan <.>
+african <.>
+egyptian <.>
+nigerian <.>
+south african <.>
+kenyan <.>
+ethiopian <.>
+ghanaian <.>
+christian <.>
+muslim <.>
+jewish <.>
+buddhist <.>
+hindu <.>
+sikh <.> 
+shinto <.>
+catholic <.>
+protestant <.>
+mormon <.>
