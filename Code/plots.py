@@ -4,7 +4,7 @@ from Code import process_lcsh as pl
 import numpy as np
 
 
-def plotStacked(ax, x, yDict, colours, xLabel=None, yLabel=None, title=None, barLabels=None, legend=True):
+def plot_stacked(ax, x, yDict, colours, xLabel=None, yLabel=None, title=None, barLabels=None, legend=True):
     width = 0.8
     bottom = np.zeros(len(x))
     ax.margins(0.02)
@@ -59,8 +59,8 @@ def added_each_year(min_date, max_date, terms_m, terms_w, kind='headings'):
     y_props = {'Men': prop_m, 'Women':prop_w}
     colours = ['goldenrod', 'rebeccapurple']
     _, ax = plt.subplots(2, 1, figsize=(10, 6))
-    plotStacked(ax[0], x, y_props, colours, yLabel=f'Proportion of {kind}', legend=False)
-    plotStacked(ax[1], x, y_counts, colours, xLabel='Year', yLabel=f'Number of {kind}', legend=True)
+    plot_stacked(ax[0], x, y_props, colours, yLabel=f'Proportion of {kind}', legend=False)
+    plot_stacked(ax[1], x, y_counts, colours, xLabel='Year', yLabel=f'Number of {kind}', legend=True)
     #stacked_dict = {'Men': }    
     
     # Create the plot

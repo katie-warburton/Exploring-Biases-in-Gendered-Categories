@@ -1,88 +1,88 @@
-gay men's writings, irish;	gay people's writings, irish
-presbyterian gay men;	presbyterian gay people
-male reproductive health;	reproductive health
-male primary school teachers;	primary school teachers
-african american gay men;	african american gay people
-ballet dancing for men;	ballet dancing
-cosmetics for men;	cosmetics
-emotional maturity in men;	emotional maturity
-hispanic american young men;	hispanic american young adults
-men's underwear;	underwear
-male homosexuality in literature;	homosexuality in literature
-arab american men in literature;	americans in literature
-male prostitutes;	prostitutes
-italian american gay men;	italian american gay people
-gay men's writings, south african (english);	gay people's writings, south african (english)
-gay men's writings, latin american;	gay people's writings, latin american
-male actors;	actors
-gay men's writings;	gay people's writings
-male contraceptives;	contraceptives
-male cheerleaders;	cheerleaders
-oral contraceptives, male;	oral contraceptives
-all-male adult movie theaters;	adult movie theaters
 male homosexuality;	homosexuality
-male prostitution;	prostitution
-middle-aged gay men;	middle-aged gay people
-catholic gay men;	catholic gay people
-muslim gay men;	muslim gay people
-men's choral societies;	choral societies
-gay men's writings, canadian;	gay people's writings, canadian
-male high school teachers;	high school teachers
-church work with african american men;	church work with african americans
-male feminists;	feminists
-climacteric, male;	climacteric
-deaf gay men;	deaf gay people
-interpersonal communication in men;	interpersonal communication
-minority gay men;	minority gay people
-sandwich men;	sandwiches
-gay men's writings, french;	gay people's writings, french
-gay men's writings, german;	gay people's writings, german
-male homosexuality in art;	homosexuality in art
-hispanic american gay men;	hispanic american gay people
-jewish gay men;	jewish gay people
+gay men, black;	gay people, black
 mexican american gay men;	mexican american gay people
-male cross-country runners;	cross-country runners
-male striptease;	striptease
-male pregnancy;	pregnancy
-gay men's writings, italian;	gay people's writings, italian
-gay men in literature;	gay people in literature
-men, white, on television;	white people on television
-older gay men;	older gay people
-gay men's writings, scottish;	gay people's writings, scottish
-male fans;	fans
-male early childhood teachers;	early childhood teachers
-male junior high school athletes;	junior high school athletes
-male beauty contests;	beauty contests
-gay men's writings, american;	gay people's writings, american
-short men;	short people
-male elementary school teachers;	elementary school teachers
-male sterility in plants;	sterility in plants
-male rape victims;	rape victims
-parents of gay men;	parents of gay people
+asian american gay men;	asian american gay people
 gay men;	gay people
-gingerbread men;	gingerbread
-gay men in mass media;	gay people in mass media
-gay men's writings, australian;	gay people's writings, australian
-male rape in art;	rape in art
+ballet dancing for men;	ballet dancing
+male beauty contests;	beauty contests
 gay men in comics;	gay people in comics
-men's shirt industry;	shirt industry
-nigerian american men;	nigerian americans
-male reproductive health services;	reproductive health services
-male quiltmakers;	quiltmakers
+gay men's writings, irish;	gay people's writings, irish
+gay men's writings, canadian;	gay people's writings, canadian
+male actors;	actors
 men's wrist watches;	wrist watches
 male homosexuality in music;	homosexuality in music
-male rape in literature;	rape in literature
+male quiltmakers;	quiltmakers
 gay men's writings, english;	gay people's writings, english
-male contraception;	contraception
-male homosexuality in motion pictures;	homosexuality in motion pictures
-asian american gay men;	asian american gay people
-male sexual abuse victims;	sexual abuse victims
-gay men, black;	gay people, black
-gay men in motion pictures;	gay people in motion pictures
 leopard men;	leopard
-christian gay men;	christian gay people
-gay men in advertising;	gay people in advertising
+catholic gay men;	catholic gay people
+gay men's writings, american;	gay people's writings, american
+male reproductive health services;	reproductive health services
+men's underwear;	underwear
+gay men's writings, australian;	gay people's writings, australian
+gay men in motion pictures;	gay people in motion pictures
+male cross-country runners;	cross-country runners
+hispanic american gay men;	hispanic american gay people
+male contraception;	contraception
+male high school teachers;	high school teachers
+gay men's writings, scottish;	gay people's writings, scottish
+men's shirt industry;	shirt industry
+italian american gay men;	italian american gay people
+parents of gay men;	parents of gay people
+male prostitution;	prostitution
+all-male adult movie theaters;	adult movie theaters
 rickshaw men;	rickshaws
-male child care workers;	child care workers
-male homosexuality in the theater;	homosexuality in the theater
+hispanic american young men;	hispanic american young adults
+male early childhood teachers;	early childhood teachers
+middle-aged gay men;	middle-aged gay people
+male primary school teachers;	primary school teachers
+men, white, on television;	white people on television
+short men;	short people
+male reproductive health;	reproductive health
+gay men in mass media;	gay people in mass media
+male sterility in plants;	sterility in plants
+church work with african american men;	church work with african americans
+gay men in advertising;	gay people in advertising
+emotional maturity in men;	emotional maturity
+male sexual abuse victims;	sexual abuse victims
+male striptease;	striptease
+male elementary school teachers;	elementary school teachers
+male pregnancy;	pregnancy
+african american gay men;	african american gay people
+presbyterian gay men;	presbyterian gay people
+sandwich men;	sandwiches
+arab american men in literature;	americans in literature
+interpersonal communication in men;	interpersonal communication
+muslim gay men;	muslim gay people
+male homosexuality in literature;	homosexuality in literature
+male fans;	fans
+male cheerleaders;	cheerleaders
+cosmetics for men;	cosmetics
+men's choral societies;	choral societies
+gay men's writings, german;	gay people's writings, german
+gay men's writings, latin american;	gay people's writings, latin american
+deaf gay men;	deaf gay people
+male homosexuality in motion pictures;	homosexuality in motion pictures
+male rape in art;	rape in art
+male feminists;	feminists
+minority gay men;	minority gay people
+jewish gay men;	jewish gay people
+christian gay men;	christian gay people
+gay men in literature;	gay people in literature
 male rape;	rape
+climacteric, male;	climacteric
+gay men's writings, italian;	gay people's writings, italian
+male child care workers;	child care workers
+male prostitutes;	prostitutes
+male homosexuality in art;	homosexuality in art
+male rape in literature;	rape in literature
+older gay men;	older gay people
+male junior high school athletes;	junior high school athletes
+nigerian american men;	nigerian americans
+gay men's writings, french;	gay people's writings, french
+male homosexuality in the theater;	homosexuality in the theater
+male rape victims;	rape victims
+male contraceptives;	contraceptives
+gay men's writings;	gay people's writings
+gingerbread men;	gingerbread
+oral contraceptives, male;	oral contraceptives
+gay men's writings, south african (english);	gay people's writings, south african (english)
