@@ -1,0 +1,139 @@
+Concept	PROP_W	PROP_M	TOTAL_GEN_FREQ
+[men/male/women/female] care giver	0.5941176470588235	170
+[men/male/women/female] accompanist	0.45789473684210524	190
+[men/male/women/female] carpenter	0.47607934655775963	857
+[men/male/women/female] carter	0.40875912408759124	137
+[men/male/women/female] adapter	0.4226740603820086	1623
+[men/male/women/female] catholic priest	0.49473684210526314	95
+[men/male/women/female] censor	0.5897435897435898	117
+[men/male/women/female] advertiser	0.4984984984984985	333
+[men/male/women/female] advertising executive	0.5454545454545454	143
+[men/male/women/female] advisor	0.5124260355029586	1690
+[men/male/women/female] chaperone	0.49656188605108054	2036
+[men/male/women/female] gamer	0.4653902798232695	679
+[men/male/women/female] charmer	0.5504587155963303	109
+[men/male/women/female] shepherd	0.5165829145728643	995
+[men/male/women/female] shifter	0.5865585774058577	3824
+[men/male/women/female] cheerleader	0.4032185963343764	2237
+[men/male/women/female] gatekeeper	0.5106382978723404	705
+[men/male/women/female] shoemaker	0.4878048780487805	205
+[men/male/women/female] skater	0.5658627087198516	2695
+[men/male/women/female] slipper	0.5954198473282443	131
+[men/male/women/female] giver	0.5878378378378378	148
+[men/male/women/female] smith	0.5370370370370371	594
+[men/male/women/female] smoker	0.4547020898176968	17992
+[men/male/women/female] gopher	0.42990654205607476	107
+[men/male/women/female] college professor	0.5602294455066922	523
+[men/male/women/female] outsider	0.48233695652173914	1472
+[men/male/women/female] comic	0.5477985891510582	4111
+[men/male/women/female] groom	0.523696682464455	422
+[men/male/women/female] commentator	0.42515630746598015	2719
+[men/male/women/female] committee member	0.5508100147275405	679
+[men/male/women/female] jumper	0.47584715212689255	1387
+[men/male/women/female] gym teacher	0.5377049180327869	305
+[men/male/women/female] gynecologist	0.5384118786313751	1549
+[men/male/women/female] sponsor	0.4836003051106026	1311
+[men/male/women/female] hairdresser	0.4616410940627085	1499
+[men/male/women/female] handler	0.5711805555555556	576
+[men/male/women/female] partner	0.44073978456823015	182053
+[men/male/women/female] kindergarten teacher	0.5496688741721855	302
+[men/male/women/female] staff nurse	0.4406779661016949	177
+[men/male/women/female] passer	0.5230998509687034	671
+[men/male/women/female] connector	0.5045146726862303	6202
+[men/male/women/female] knitter	0.43812709030100333	299
+[men/male/women/female] header	0.4168272318561336	1557
+[men/male/women/female] health assistant	0.4298245614035088	114
+[men/male/women/female] construction worker	0.46165966386554624	1904
+[men/male/women/female] steelworker	0.5891472868217055	258
+[men/male/women/female] laborer	0.5326359376702626	9177
+[men/male/women/female] landlord	0.5938864628820961	687
+[men/male/women/female] herder	0.40327868852459015	305
+[men/male/women/female] cook	0.5869358991733297	7379
+[men/male/women/female] cooper	0.40786240786240785	407
+[men/male/women/female] lead	0.5833217270194986	57440
+[men/male/women/female] student nurse	0.4794520547945205	438
+[men/male/women/female] holder	0.5194147439504784	1777
+[men/male/women/female] counsel	0.46921182266009853	812
+[men/male/women/female] counselor	0.5822147651006712	5960
+[men/male/women/female] creator	0.5493982647635041	3573
+[men/male/women/female] criminologist	0.5182724252491694	301
+[men/male/women/female] critic	0.40423996391520073	11085
+[men/male/women/female] host	0.5774189347571298	7679
+[men/male/women/female] planter	0.43278688524590164	610
+[men/male/women/female] plastic surgeon	0.5408163265306123	196
+[men/male/women/female] surrogate	0.5217965653896962	757
+[men/male/women/female] pointer	0.5327102803738317	107
+[men/male/women/female] cutter	0.4026548672566372	226
+[men/male/women/female] hunter	0.4739947213165657	6441
+[men/male/women/female] dance teacher	0.42328042328042326	189
+[men/male/women/female] dancer	0.498756347808063	57894
+[men/male/women/female] taper	0.5971731448763251	283
+[men/male/women/female] makeup artist	0.5172413793103449	116
+[men/male/women/female] poster	0.5522648083623694	574
+[men/male/women/female] deejay	0.5619047619047619	105
+[men/male/women/female] manicurist	0.5641025641025641	117
+[men/male/women/female] defender	0.48772763262074426	1263
+[men/male/women/female] marker	0.5106888361045131	421
+[men/male/women/female] tester	0.5397260273972603	365
+[men/male/women/female] preschool teacher	0.45652173913043476	322
+[men/male/women/female] therapist	0.5338445412919953	18127
+[men/male/women/female] massage therapist	0.4827586206896552	232
+[men/male/women/female] masseuse	0.582089552238806	536
+[men/male/women/female] primary teacher	0.40024783147459725	807
+[men/male/women/female] math teacher	0.4811320754716981	212
+[men/male/women/female] mathematics teacher	0.5560538116591929	223
+[men/male/women/female] thrower	0.5789473684210527	95
+[men/male/women/female] member	0.5790573727662243	220087
+[men/male/women/female] mentor	0.4937351568258128	12211
+[men/male/women/female] mesmerist	0.40594059405940597	101
+[men/male/women/female] psychiatrist	0.5737507525586996	3322
+[men/male/women/female] midwife	0.5129026817338506	5929
+[men/male/women/female] trapper	0.4174757281553398	103
+[men/male/women/female] milliner	0.4782608695652174	161
+[men/male/women/female] puppeteer	0.5658914728682171	129
+[men/male/women/female] trustee	0.5827263267429761	961
+[men/male/women/female] arbiter	0.4957983193277311	119
+[men/male/women/female] purveyor	0.5955882352941176	136
+[men/male/women/female] assessor	0.47540983606557374	488
+[men/male/women/female] associate	0.5727852055479196	8003
+[men/male/women/female] urologist	0.6	170
+[men/male/women/female] elder	0.4921472708547889	15536
+[men/male/women/female] reception	0.5130784708249497	497
+[men/male/women/female] attache	0.44021739130434784	184
+[men/male/women/female] elementary teacher	0.4305750350631136	713
+[men/male/women/female] valet	0.5399239543726235	263
+[men/male/women/female] babysitter	0.5392986698911729	827
+[men/male/women/female] backer	0.41496598639455784	147
+[men/male/women/female] narrator	0.5304491448665353	18769
+[men/male/women/female] english professor	0.5966386554621849	119
+[men/male/women/female] english teacher	0.5318681318681319	455
+[men/male/women/female] ballerina	0.5912698412698413	252
+[men/male/women/female] visitor	0.4861491172170784	26677
+[men/male/women/female] barber	0.5963855421686747	996
+[men/male/women/female] barista	0.5540229885057472	435
+[men/male/women/female] volunteer	0.5477664072553465	32638
+[men/male/women/female] evaluator	0.42418426103646834	521
+[men/male/women/female] resident	0.5448936830668943	25772
+[men/male/women/female] responder	0.5909090909090909	374
+[men/male/women/female] exotic dancer	0.4353448275862069	464
+[men/male/women/female] nursing student	0.4865642994241843	1042
+[men/male/women/female] reviewer	0.4012380416432189	1777
+[men/male/women/female] observer	0.4238216311363192	5113
+[men/male/women/female] biographer	0.4888888888888889	765
+[men/male/women/female] farmworker	0.5353535353535354	99
+[men/male/women/female] fashion designer	0.5857519788918206	379
+[men/male/women/female] boarder	0.4456076467910787	2197
+[men/male/women/female] fellow	0.5776439089692101	2988
+[men/male/women/female] financier	0.5490196078431373	204
+[men/male/women/female] youth worker	0.5568181818181818	264
+[men/male/women/female] breeder	0.5691672401927047	1453
+[men/male/women/female] fisher	0.5270607826810991	1201
+[men/male/women/female] flapper	0.42857142857142855	105
+[men/male/women/female] scout	0.597667638483965	686
+[men/male/women/female] flutist	0.5523809523809524	105
+[men/male/women/female] seal	0.5561576354679802	2030
+[men/male/women/female] business associate	0.45739910313901344	223
+[men/male/women/female] business executive	0.5893536121673004	526
+[men/male/women/female] butcher	0.4664310954063604	566
+[men/male/women/female] buyer	0.5937726285300506	2762
+[men/male/women/female] caller	0.44093526435177105	5731

@@ -1,0 +1,834 @@
+JOB,PROP_W,PROP_M
+chief executives,0.271,0.7290000000000001
+general managers,0.335,0.665
+operations managers,0.335,0.665
+legislators,0.41600000000000004,0.584
+advertising managers,0.5539999999999999,0.446
+promotions managers,0.5539999999999999,0.446
+marketing managers,0.593,0.40700000000000003
+sales managers,0.325,0.675
+public relations managers,0.667,0.33399999999999996
+fundraising managers,0.667,0.33399999999999996
+administrative services managers,0.696,0.305
+facilities managers,0.168,0.8320000000000001
+computer system managers,0.287,0.713
+information systems managers,0.287,0.713
+financial managers,0.5579999999999999,0.44299999999999995
+compensation managers,0.768,0.23199999999999998
+benefits managers,0.768,0.23199999999999998
+human resources managers,0.755,0.245
+training managers,0.546,0.45399999999999996
+development managers,0.546,0.45399999999999996
+industrial production managers,0.226,0.774
+purchasing managers,0.495,0.505
+transportation managers,0.19699999999999998,0.8029999999999999
+storage managers,0.19699999999999998,0.8029999999999999
+distribution managers,0.19699999999999998,0.8029999999999999
+farmers,0.128,0.872
+ranchers,0.128,0.872
+agricultural managers,0.128,0.872
+construction managers,0.08199999999999999,0.9179999999999999
+education administrators,0.644,0.35600000000000004
+childcare administrators,0.644,0.35600000000000004
+architectural managers,0.114,0.887
+engineering managers,0.114,0.887
+food service managers,0.469,0.531
+funeral home managers,0.353,0.647
+entertainment managers,0.406,0.594
+recreation managers,0.406,0.594
+lodging managers,0.51,0.49
+medical managers,0.722,0.278
+health services managers,0.722,0.278
+natural sciences managers,0.59,0.41
+postmasters,0.499,0.501
+mail superintendents,0.499,0.501
+property managers,0.526,0.475
+real estate managers,0.526,0.475
+community association managers,0.526,0.475
+social managers,0.7020000000000001,0.299
+community service managers,0.7020000000000001,0.299
+emergency management directors,0.386,0.614
+personal service managers,0.7440000000000001,0.259
+managers,0.359,0.6409999999999999
+agents,0.371,0.629
+business managers,0.371,0.629
+wholesale buyers,0.508,0.49200000000000005
+retail buyers,0.508,0.49200000000000005
+purchasing agents,0.524,0.47600000000000003
+claims adjusters,0.61,0.39
+claims appraisers,0.61,0.39
+claims examiners,0.61,0.39
+claims investigators,0.61,0.39
+compliance officers,0.5379999999999999,0.46299999999999997
+cost estimators,0.161,0.8390000000000001
+human resources workers,0.753,0.247
+compensation specialists,0.7859999999999999,0.214
+benefits specialists,0.7859999999999999,0.214
+job analysis specialists,0.7859999999999999,0.214
+training specialists,0.5489999999999999,0.451
+development specialists,0.5489999999999999,0.451
+logisticians,0.354,0.6459999999999999
+project management specialists,0.441,0.5589999999999999
+management analysts,0.428,0.5720000000000001
+meeting planners,0.763,0.237
+convention planners,0.763,0.237
+event planners,0.763,0.237
+market research analysts,0.583,0.418
+marketing specialists,0.583,0.418
+business operations specialists,0.5539999999999999,0.446
+accountants,0.598,0.402
+auditors,0.598,0.402
+property appraisers,0.397,0.603
+property assessors,0.397,0.603
+budget analysts,0.607,0.39299999999999996
+credit analysts,0.536,0.46399999999999997
+financial analysts,0.435,0.565
+investment analysts,0.435,0.565
+personal financial advisors,0.305,0.695
+insurance underwriters,0.598,0.40299999999999997
+financial examiners,0.48100000000000004,0.519
+credit counselors,0.5660000000000001,0.434
+loan officers,0.5660000000000001,0.434
+tax examiners,0.63,0.37
+tax collectors,0.63,0.37
+revenue agents,0.63,0.37
+tax preparers,0.616,0.384
+financial specialists,0.563,0.43700000000000006
+computer scientists,0.314,0.6859999999999999
+information research scientists,0.314,0.6859999999999999
+information scientists,0.314,0.6859999999999999
+computer systems analysts,0.39899999999999997,0.601
+information security analysts,0.18899999999999997,0.8109999999999999
+computer programmers,0.21,0.79
+software developers,0.18,0.82
+software engineers,0.18,0.82
+software quality assurance analysts,0.433,0.5670000000000001
+software testers,0.433,0.5670000000000001
+web developers,0.278,0.722
+web designers,0.428,0.5720000000000001
+digital interface designers,0.428,0.5720000000000001
+computer support specialists,0.253,0.747
+database administrators,0.32,0.68
+database architects,0.32,0.68
+network administrators,0.17800000000000002,0.8220000000000001
+computer systems administrators,0.17800000000000002,0.8220000000000001
+computer network architects,0.078,0.922
+actuaries,0.35700000000000004,0.644
+mathematicians,0.276,0.722
+operations research analysts,0.478,0.522
+statisticians,0.521,0.479
+architects,0.26,0.74
+landscape architects,0.33399999999999996,0.6659999999999999
+surveyors,0.19899999999999998,0.8009999999999999
+cartographers,0.19899999999999998,0.8009999999999999
+photogrammetrists,0.19899999999999998,0.8009999999999999
+aerospace engineers,0.122,0.878
+agricultural engineers,0.131,0.8690000000000001
+bioengineers,0.16899999999999998,0.831
+biomedical engineers,0.16899999999999998,0.831
+chemical engineers,0.18600000000000003,0.815
+civil engineers,0.15,0.85
+computer hardware engineers,0.159,0.841
+computer engineers,0.159,0.841
+electrical engineers,0.091,0.909
+electronics engineers,0.091,0.909
+environmental engineers,0.3,0.7
+industrial engineers,0.196,0.804
+marine engineers,0.081,0.919
+naval architects,0.081,0.919
+materials engineers,0.135,0.865
+mechanical engineers,0.08,0.92
+mining engineers,0.06,0.94
+geological engineers,0.06,0.94
+mining safety engineers,0.06,0.94
+nuclear engineers,0.192,0.8079999999999999
+petroleum engineers,0.205,0.795
+engineers,0.14,0.86
+architectural drafters,0.16899999999999998,0.8320000000000001
+civil drafters,0.16899999999999998,0.8320000000000001
+drafters,0.19,0.81
+electrical engineering technologists,0.069,0.9309999999999999
+electronic engineering technologists,0.069,0.9309999999999999
+electrical engineering technicians,0.069,0.9309999999999999
+electronic engineering technicians,0.069,0.9309999999999999
+engineering technologists,0.18899999999999997,0.8109999999999999
+engineering technicians,0.18899999999999997,0.8109999999999999
+surveying technicians,0.084,0.9159999999999999
+mapping technicians,0.084,0.9159999999999999
+agricultural scientists,0.354,0.6459999999999999
+food scientists,0.354,0.6459999999999999
+biological scientists,0.5,0.5
+conservation scientists,0.275,0.725
+foresters,0.275,0.725
+medical scientists,0.5529999999999999,0.447
+life scientists,0.484,0.516
+astronomers,0.14,0.861
+physicists,0.14,0.861
+atmospheric scientists,0.299,0.7020000000000001
+space scientists,0.299,0.7020000000000001
+chemists,0.44299999999999995,0.557
+materials scientists,0.44299999999999995,0.557
+environmental scientists,0.395,0.605
+environmental specialists,0.395,0.605
+geoscientists,0.251,0.7490000000000001
+hydrologists,0.251,0.7490000000000001
+physical scientists,0.44,0.56
+economists,0.35,0.65
+survey researchers,0.5429999999999999,0.457
+clinical psychologists,0.722,0.27899999999999997
+counseling psychologists,0.722,0.27899999999999997
+school psychologists,0.851,0.149
+psychologists,0.705,0.295
+sociologists,0.598,0.402
+social scientists,0.598,0.402
+urban planners,0.423,0.5770000000000001
+regional planners,0.423,0.5770000000000001
+agricultural science technicians,0.342,0.6579999999999999
+food science technicians,0.342,0.6579999999999999
+biological technicians,0.484,0.516
+chemical technicians,0.342,0.6579999999999999
+environmental science technicians,0.289,0.711
+geoscience technicians,0.289,0.711
+nuclear technicians,0.313,0.6890000000000001
+social science research assistants,0.616,0.385
+science technicians,0.485,0.515
+substance abuse counselors,0.736,0.264
+behavioral disorder counselors,0.736,0.264
+educational counselors,0.772,0.228
+guidance counselors,0.772,0.228
+career counselors,0.772,0.228
+career advisors,0.772,0.228
+educational advisors,0.772,0.228
+marriage therapists,0.777,0.223
+family therapists,0.777,0.223
+mental health counselors,0.75,0.25
+rehabilitation counselors,0.622,0.379
+child social workers,0.826,0.174
+family social workers,0.826,0.174
+school social workers,0.826,0.174
+healthcare social workers,0.765,0.235
+mental health social workers,0.802,0.198
+substance abuse social workers,0.802,0.198
+social workers,0.823,0.177
+probation officers,0.545,0.455
+correctional treatment specialists,0.545,0.455
+social service assistants,0.78,0.221
+human service assistants,0.78,0.221
+community specialists,0.6409999999999999,0.359
+social service specialists,0.6409999999999999,0.359
+clergy,0.168,0.8320000000000001
+priest,0.168,0.8320000000000001
+bishop,0.168,0.8320000000000001
+deacon,0.168,0.8320000000000001
+directors of religious activities,0.55,0.45
+directors of religious education,0.55,0.45
+religious workers,0.5720000000000001,0.429
+lawyers,0.4,0.6
+judicial law clerks,0.7509999999999999,0.249
+law clerks,0.7509999999999999,0.249
+judges,0.53,0.47
+magistrates,0.53,0.47
+judicial workers,0.53,0.47
+paralegals,0.865,0.136
+legal assistants,0.865,0.136
+title examiners,0.674,0.326
+legal support workers,0.682,0.318
+postsecondary teachers,0.486,0.514
+lecturers,0.486,0.514
+professors,0.486,0.514
+preschool teachers,0.973,0.027000000000000003
+kindergarten teachers,0.973,0.027000000000000003
+elementary school teachers,0.802,0.198
+middle school teachers,0.802,0.198
+secondary school teachers,0.5660000000000001,0.434
+special education teachers,0.841,0.159
+tutors,0.634,0.366
+teachers,0.545,0.456
+archivists,0.513,0.48700000000000004
+curators,0.513,0.48700000000000004
+museum technicians,0.513,0.48700000000000004
+librarians,0.815,0.185
+media collections specialists,0.815,0.185
+library technicians,0.695,0.305
+teaching assistants,0.83,0.17
+educational instruction workers,0.7609999999999999,0.239
+library workers,0.7609999999999999,0.239
+artists,0.375,0.625
+commercial designers,0.327,0.6729999999999999
+industrial designers,0.327,0.6729999999999999
+fashion designers,0.8109999999999999,0.18899999999999997
+floral designers,0.87,0.13
+graphic designers,0.49700000000000005,0.503
+interior designers,0.792,0.20800000000000002
+merchandise displayers,0.604,0.396
+window trimmers,0.604,0.396
+designers,0.405,0.595
+actors,0.413,0.5870000000000001
+producers,0.387,0.613
+directors,0.387,0.613
+athletes,0.094,0.9059999999999999
+sports competitors,0.094,0.9059999999999999
+coaches,0.313,0.687
+scouts,0.313,0.687
+umpires,0.11199999999999999,0.89
+referees,0.11199999999999999,0.89
+sports officials,0.11199999999999999,0.89
+dancers,0.732,0.268
+choreographers,0.732,0.268
+music directors,0.18,0.821
+composers,0.18,0.821
+musicians,0.209,0.7909999999999999
+singers,0.209,0.7909999999999999
+disc jockeys,0.062,0.937
+djs,0.062,0.937
+entertainers,0.40700000000000003,0.593
+performers,0.40700000000000003,0.593
+broadcast announcers,0.217,0.7829999999999999
+radio disc jockeys,0.217,0.7829999999999999
+news analysts,0.45299999999999996,0.547
+reporters,0.45299999999999996,0.547
+journalists,0.45299999999999996,0.547
+public relations specialists,0.624,0.376
+editors,0.532,0.46799999999999997
+technical writers,0.5660000000000001,0.435
+writers,0.5529999999999999,0.447
+authors,0.5529999999999999,0.447
+interpreters,0.701,0.299
+translators,0.701,0.299
+court reporters,0.91,0.09
+simultaneous captioners,0.91,0.09
+media workers,0.47100000000000003,0.529
+communication workers,0.47100000000000003,0.529
+broadcast technicians,0.08900000000000001,0.9109999999999999
+sound technicians,0.08900000000000001,0.9109999999999999
+lighting technicians,0.08900000000000001,0.9109999999999999
+photographers,0.42,0.58
+camera operators,0.17600000000000002,0.825
+television editors,0.17600000000000002,0.825
+film editors,0.17600000000000002,0.825
+video editors,0.17600000000000002,0.825
+media equipment workers,0.09699999999999999,0.898
+communication equipment workers,0.09699999999999999,0.898
+chiropractors,0.254,0.746
+dentists,0.344,0.6559999999999999
+dietitians,0.9009999999999999,0.099
+nutritionists,0.9009999999999999,0.099
+optometrists,0.484,0.516
+pharmacists,0.555,0.445
+emergency medicine physicians,0.336,0.664
+radiologists,0.245,0.755
+physicians,0.39899999999999997,0.602
+doctors,0.39899999999999997,0.602
+surgeons,0.203,0.7979999999999999
+physician assistants,0.657,0.34299999999999997
+podiatrists,0.313,0.687
+audiologists,0.828,0.172
+occupational therapists,0.867,0.133
+physical therapists,0.601,0.39899999999999997
+radiation therapists,0.65,0.35
+recreational therapists,0.733,0.266
+respiratory therapists,0.63,0.37
+speech - language pathologists,0.945,0.055
+speech therapists,0.945,0.055
+speech pathologists,0.945,0.055
+exercise physiologists,0.5660000000000001,0.434
+therapists,0.777,0.223
+veterinarians,0.675,0.325
+registered nurses,0.865,0.135
+nurse anesthetists,0.579,0.42100000000000004
+nurse midwives,1.0,0.0
+nurse practitioners,0.8759999999999999,0.124
+acupuncturists,0.547,0.45299999999999996
+clinical laboratory technologists,0.703,0.297
+clinical laboratory technicians,0.703,0.297
+dental hygienists,0.929,0.071
+cardiovascular technologists,0.5539999999999999,0.446
+cardiovascular technicians,0.5539999999999999,0.446
+diagnostic medical sonographers,0.757,0.243
+radiologic technologists,0.648,0.35200000000000004
+radiologic technicians,0.648,0.35200000000000004
+magnetic resonance imaging technologists,0.522,0.478
+nuclear medicine technologists,0.486,0.514
+medical dosimetrists,0.486,0.514
+emergency medical technicians,0.402,0.598
+paramedics,0.293,0.7070000000000001
+pharmacy technicians,0.762,0.23800000000000002
+psychiatric technicians,0.6579999999999999,0.342
+surgical technologists,0.7090000000000001,0.29100000000000004
+veterinary technologists,0.851,0.149
+veterinary technicians,0.851,0.149
+dietetic technicians,0.8170000000000001,0.183
+ophthalmic medical technicians,0.8170000000000001,0.183
+licensed practical nurses,0.8809999999999999,0.11900000000000001
+licensed vocational nurses,0.8809999999999999,0.11900000000000001
+medical records specialists,0.917,0.083
+dispensing opticians,0.713,0.28800000000000003
+health technologists,0.622,0.37799999999999995
+health technicians,0.622,0.37799999999999995
+home health aides,0.885,0.115
+personal care aides,0.8170000000000001,0.183
+nursing assistants,0.889,0.111
+orderlies,0.45,0.55
+psychiatric aides,0.45,0.55
+occupational therapy assistants,0.821,0.179
+occupational therapy aides,0.821,0.179
+physical therapist assistants,0.6409999999999999,0.359
+physical aides,0.6409999999999999,0.359
+massage therapists,0.769,0.23199999999999998
+dental assistants,0.9309999999999999,0.069
+medical assistants,0.9,0.1
+medical transcriptionists,0.883,0.11699999999999999
+pharmacy aides,0.7559999999999999,0.244
+veterinary assistants,0.828,0.172
+laboratory animal caretakers,0.828,0.172
+phlebotomists,0.847,0.153
+healthcare support workers,0.6679999999999999,0.332
+firefighters,0.035,0.965
+fire inspectors,0.125,0.875
+bailiffs,0.376,0.624
+correctional officers,0.287,0.713
+jailers,0.287,0.713
+detectives,0.245,0.755
+criminal investigators,0.245,0.755
+fish and game wardens,0.165,0.836
+parking enforcement workers,0.36200000000000004,0.638
+police officers,0.147,0.853
+animal control workers,0.4,0.6
+private detectives,0.47100000000000003,0.529
+private investigators,0.47100000000000003,0.529
+security guards,0.254,0.746
+gambling surveillance officers,0.254,0.746
+crossing guards,0.389,0.611
+flaggers,0.389,0.611
+transportation security screeners,0.46299999999999997,0.537
+school bus monitors,0.774,0.226
+chefs,0.18899999999999997,0.8109999999999999
+head cooks,0.18899999999999997,0.8109999999999999
+cooks,0.408,0.5920000000000001
+food preparation workers,0.588,0.41200000000000003
+bartenders,0.495,0.505
+fast food workers,0.6779999999999999,0.322
+counter workers,0.6779999999999999,0.322
+waiters,0.64,0.361
+dining room attendants,0.44799999999999995,0.552
+cafeteria attendants,0.44799999999999995,0.552
+bartender helpers,0.44799999999999995,0.552
+dishwashers,0.266,0.7340000000000001
+hosts,0.8079999999999999,0.192
+janitors,0.297,0.703
+building cleaners,0.297,0.703
+maids,0.8540000000000001,0.146
+housekeeping cleaners,0.8540000000000001,0.146
+housekeepers,0.8540000000000001,0.146
+pest control workers,0.038,0.9620000000000001
+landscaping workers,0.057,0.943
+landscapers,0.057,0.943
+groundskeeping workers,0.057,0.943
+tree trimmers,0.024,0.976
+pruners,0.024,0.976
+animal trainers,0.617,0.38299999999999995
+animal caretakers,0.713,0.287
+gambling services workers,0.496,0.504
+ushers,0.478,0.522
+lobby attendants,0.478,0.522
+ticket takers,0.478,0.522
+embalmers,0.376,0.625
+crematory operators,0.376,0.625
+funeral attendants,0.376,0.625
+morticians,0.319,0.6809999999999999
+undertakers,0.319,0.6809999999999999
+funeral arrangers,0.319,0.6809999999999999
+barbers,0.2,0.8009999999999999
+hairdressers,0.887,0.113
+hairstylists,0.887,0.113
+cosmetologists,0.887,0.113
+manicurists,0.778,0.222
+pedicurists,0.778,0.222
+skincare specialists,0.9670000000000001,0.033
+baggage porters,0.27899999999999997,0.721
+bellhops,0.27899999999999997,0.721
+concierges,0.27899999999999997,0.721
+tour guides,0.353,0.647
+travel guides,0.353,0.647
+childcare workers,0.9470000000000001,0.053
+exercise trainers,0.44799999999999995,0.552
+group fitness instructors,0.44799999999999995,0.552
+recreation workers,0.6940000000000001,0.306
+residential advisors,0.685,0.315
+cashiers,0.721,0.27899999999999997
+counter clerks,0.375,0.625
+rental clerks,0.375,0.625
+parts salespersons,0.12300000000000001,0.877
+retail sales worker,0.12300000000000001,0.877
+retail salespersons,0.385,0.615
+advertising sales agents,0.535,0.465
+insurance sales agents,0.509,0.491
+securities agents,0.275,0.726
+commodities agents,0.275,0.726
+financial services sales agents,0.275,0.726
+travel agents,0.777,0.223
+sales representatives of services,0.312,0.688
+wholesale sales representatives,0.26899999999999996,0.731
+manufacturing sales representatives,0.26899999999999996,0.731
+models,0.631,0.37
+product promoters,0.631,0.37
+real estate brokers,0.517,0.483
+sales agents,0.517,0.483
+real estate agents,0.517,0.483
+sales engineers,0.096,0.905
+telemarketers,0.637,0.363
+news vendors,0.455,0.545
+street vendors,0.455,0.545
+salespersons,0.46299999999999997,0.537
+switchboard operators,0.77,0.23
+telephone operators,0.723,0.27699999999999997
+communications equipment operators,0.41600000000000004,0.584
+bill collectors,0.7440000000000001,0.256
+account collectors,0.7440000000000001,0.256
+billing clerks,0.87,0.13
+posting clerks,0.87,0.13
+bookkeeping clerks,0.877,0.12300000000000001
+accounting clerks,0.877,0.12300000000000001
+auditing clerks,0.877,0.12300000000000001
+gambling cage workers,0.732,0.268
+payroll clerks,0.872,0.129
+timekeeping clerks,0.872,0.129
+procurement clerks,0.573,0.42700000000000005
+tellers,0.843,0.157
+financial clerks,0.611,0.39
+brokerage clerks,0.797,0.203
+correspondence clerks,0.7190000000000001,0.281
+court clerks,0.7979999999999999,0.20199999999999999
+municipal clerks,0.7979999999999999,0.20199999999999999
+license clerks,0.7979999999999999,0.20199999999999999
+credit authorizers,0.7290000000000001,0.271
+credit checkers,0.7290000000000001,0.271
+credit clerks,0.7290000000000001,0.271
+customer service representatives,0.6709999999999999,0.32899999999999996
+eligibility interviewers,0.8490000000000001,0.152
+file clerks,0.7659999999999999,0.23399999999999999
+hotel desk clerks,0.591,0.409
+motel desk clerks,0.591,0.409
+resort desk clerks,0.591,0.409
+interviewers,0.789,0.212
+library assistants,0.789,0.21100000000000002
+loan interviewers,0.745,0.255
+loan clerks,0.745,0.255
+new accounts clerks,0.778,0.222
+order clerks,0.557,0.44299999999999995
+human resources assistants,0.821,0.179
+receptionists,0.9059999999999999,0.094
+information clerks,0.9059999999999999,0.094
+reservation agents,0.5,0.5
+transportation ticket agents,0.5,0.5
+travel clerks,0.5,0.5
+information clerks,0.804,0.196
+record clerks,0.804,0.196
+cargo agents,0.32799999999999996,0.6729999999999999
+freight agents,0.32799999999999996,0.6729999999999999
+couriers,0.152,0.848
+messengers,0.152,0.848
+public safety telecommunicators,0.674,0.326
+dispatchers,0.479,0.521
+meter readers,0.14,0.86
+postal service clerks,0.584,0.41600000000000004
+mail carriers,0.366,0.634
+mail sorters,0.518,0.48200000000000004
+mail processors,0.518,0.48200000000000004
+mail processing machine operators,0.518,0.48200000000000004
+production clerks,0.53,0.47
+planning clerks,0.53,0.47
+expediting clerks,0.53,0.47
+shipping clerks,0.331,0.669
+receiving clerks,0.331,0.669
+and inventory clerks,0.331,0.669
+weighers,0.474,0.526
+measurers,0.474,0.526
+checkers,0.474,0.526
+samplers,0.474,0.526
+executive secretaries,0.95,0.05
+executive administrative assistants,0.95,0.05
+legal secretaries,0.9490000000000001,0.051
+legal administrative assistants,0.9490000000000001,0.051
+medical secretaries,0.96,0.04
+medical administrative assistants,0.96,0.04
+secretaries,0.9390000000000001,0.061
+administrative assistants,0.9390000000000001,0.061
+data entry keyers,0.789,0.21100000000000002
+word processors,0.846,0.154
+typists,0.846,0.154
+desktop publishers,0.348,0.6559999999999999
+insurance claims processing clerks,0.81,0.191
+policy processing clerks,0.81,0.191
+mail clerks,0.48100000000000004,0.519
+mail machine operators,0.48100000000000004,0.519
+office clerks,0.841,0.159
+office machine operators,0.551,0.449
+proofreaders,0.677,0.322
+copy markers,0.677,0.322
+statistical assistants,0.58,0.42100000000000004
+office support workers,0.745,0.255
+administrative support workers,0.745,0.255
+agricultural inspectors,0.41100000000000003,0.588
+animal breeders,0.34700000000000003,0.655
+graders,0.623,0.377
+agricultural workers,0.177,0.823
+fishing workers,0.03,0.97
+hunting workers,0.03,0.97
+forest workers,0.134,0.866
+conservation workers,0.134,0.866
+logging workers,0.024,0.976
+brickmasons,0.01,0.99
+blockmasons,0.01,0.99
+stonemasons,0.01,0.99
+carpenters,0.017,0.983
+carpet installers,0.038,0.9620000000000001
+floor installers,0.038,0.9620000000000001
+tile installers,0.038,0.9620000000000001
+carpet finishers,0.038,0.9620000000000001
+floor finishers,0.038,0.9620000000000001
+tile finishers,0.038,0.9620000000000001
+cement masons,0.011000000000000001,0.9890000000000001
+concrete finishers,0.011000000000000001,0.9890000000000001
+terrazzo workers,0.011000000000000001,0.9890000000000001
+construction laborers,0.034,0.966
+construction worker,0.034,0.966
+construction equipment operators,0.021,0.9790000000000001
+drywall installers,0.027999999999999997,0.972
+ceiling tile installers,0.027999999999999997,0.972
+electricians,0.018000000000000002,0.982
+glaziers,0.012,0.988
+insulation workers,0.033,0.9670000000000001
+painters,0.07200000000000001,0.9279999999999999
+paperhangers,0.07200000000000001,0.9279999999999999
+pipelayers,0.024,0.976
+plumbers,0.013999999999999999,0.986
+pipefitters,0.013999999999999999,0.986
+steamfitters,0.013999999999999999,0.986
+rebar workers,0.047,0.953
+roofers,0.021,0.9790000000000001
+sheet metal workers,0.044000000000000004,0.956
+structural iron workers,0.006,0.9940000000000001
+steel workers,0.006,0.9940000000000001
+construction inspectors,0.098,0.902
+building inspectors,0.098,0.902
+elevator installers,0.019,0.981
+escalator installers,0.019,0.981
+elevator repairers,0.019,0.981
+fence erectors,0.01,0.99
+hazardous materials removal workers,0.23600000000000002,0.765
+highway maintenance workers,0.04,0.961
+septic tank servicers,0.017,0.983
+sewer pipe cleaners,0.017,0.983
+derrick operator,0.021,0.9790000000000001
+rotary drill operator,0.021,0.9790000000000001
+service unit operators,0.021,0.9790000000000001
+earth drillers,0.022000000000000002,0.978
+underground mining machine operators,0.019,0.981
+roustabouts,0.0,1.0
+extraction workers,0.031,0.9690000000000001
+computer repairers,0.087,0.9129999999999999
+automated teller repairers,0.087,0.9129999999999999
+and office machine repairers,0.087,0.9129999999999999
+radio equipemnt installers,0.071,0.929
+telecommunications equipment installers,0.071,0.929
+telecommunications equipment repairers,0.071,0.929
+radio equipemnt repairers,0.071,0.929
+avionics technicians,0.09,0.9109999999999999
+electric motor repairers,0.05,0.95
+power tool repairers,0.05,0.95
+industrial electrical repairers,0.051,0.9490000000000001
+industrial electronics repairers,0.051,0.9490000000000001
+electronic equipment installers,0.115,0.884
+electronic equipemnt repairers,0.115,0.884
+audiovisual equipment installers,0.055999999999999994,0.9440000000000001
+audiovisual equipment  repairers,0.055999999999999994,0.9440000000000001
+security system installers,0.025,0.975
+fire alarm systems installers,0.025,0.975
+aircraft mechanics,0.044000000000000004,0.956
+aircraft service technicians,0.044000000000000004,0.956
+automotive body repairers,0.024,0.976
+automotive glass installers,0.034,0.966
+automotive glass repairers,0.034,0.966
+automotive service technicians,0.019,0.981
+car mechanics,0.019,0.981
+bus mechanics,0.012,0.988
+truck mechanics,0.012,0.988
+diesel engine specialists,0.012,0.988
+heavy vehicle mechanic,0.015,0.985
+heavy vehicle technicians,0.015,0.985
+mobile equipment service technicians,0.015,0.985
+small engine mechanics,0.024,0.976
+valve installers,0.055999999999999994,0.9440000000000001
+vale repairers,0.055999999999999994,0.9440000000000001
+control installers,0.055999999999999994,0.9440000000000001
+control repairers,0.055999999999999994,0.9440000000000001
+heating mechanics,0.016,0.9840000000000001
+air conditioning mechanics,0.016,0.9840000000000001
+ac mechanics,0.016,0.9840000000000001
+refrigeration mechanics,0.016,0.9840000000000001
+home appliance repairers,0.013000000000000001,0.987
+industrial machinery mechanics,0.039,0.961
+refractory machinery mechanics,0.039,0.961
+maintenance workers,0.05,0.95
+repair workers,0.05,0.95
+repairers,0.05,0.95
+millwrights,0.023,0.977
+power line installers,0.011000000000000001,0.9890000000000001
+power line repairers,0.011000000000000001,0.9890000000000001
+telecommunications line installers,0.048,0.9520000000000001
+telecommunications line repairers,0.048,0.9520000000000001
+precision instrument repairers,0.095,0.905
+precision equipment installers,0.095,0.905
+wind turbine service technicians,0.055,0.945
+coin machine servicers,0.08900000000000001,0.9109999999999999
+vending machine servicers,0.08900000000000001,0.9109999999999999
+amusement machine servicers,0.08900000000000001,0.9109999999999999
+locksmiths,0.040999999999999995,0.96
+safe repairers,0.040999999999999995,0.96
+manufactured building installers,0.0,1.0
+mobile home installers,0.0,1.0
+riggers,0.057999999999999996,0.941
+aircraft assemblers,0.244,0.757
+electrical assemblers,0.503,0.49700000000000005
+electronics assemblers,0.503,0.49700000000000005
+and electromechanical assemblers,0.503,0.49700000000000005
+engine assemblers,0.109,0.8909999999999999
+structural metal fabricators,0.037000000000000005,0.963
+structural metal fitters,0.037000000000000005,0.963
+fabricators,0.375,0.625
+bakers,0.56,0.44
+butchers,0.24,0.76
+meat processing worker,0.24,0.76
+poultry processing worker,0.24,0.76
+fish processing workers,0.24,0.76
+food batchmakers,0.5429999999999999,0.457
+food cooking machine operators,0.45299999999999996,0.547
+food cooking machine tenders,0.45299999999999996,0.547
+food processing workers,0.325,0.6759999999999999
+production workers,0.27,0.73
+machinists,0.049,0.951
+metal furnace operators,0.11699999999999999,0.883
+model makers,0.11599999999999999,0.883
+patternmakers,0.11599999999999999,0.883
+molders,0.162,0.838
+tool makers,0.016,0.9840000000000001
+die makers,0.016,0.9840000000000001
+welders,0.061,0.9390000000000001
+soldering workers,0.061,0.9390000000000001
+brazing workers,0.061,0.9390000000000001
+prepress technicians,0.33799999999999997,0.662
+prepress workers,0.33799999999999997,0.662
+printing press operators,0.187,0.813
+print binders,0.311,0.6890000000000001
+finishing workers,0.311,0.6890000000000001
+laundry workers,0.649,0.35200000000000004
+dry cleaning workers,0.649,0.35200000000000004
+sewing machine operators,0.7170000000000001,0.28300000000000003
+shoe workers,0.255,0.746
+shoe makers,0.255,0.746
+shoemakers,0.255,0.746
+leather workers,0.255,0.746
+tailors,0.727,0.273
+dressmakers,0.727,0.273
+textile machine operators,0.537,0.46299999999999997
+upholsterers,0.156,0.8440000000000001
+cabinetmakers,0.08800000000000001,0.912
+bench carpenters,0.08800000000000001,0.912
+furniture finishers,0.171,0.83
+sawing machine operators,0.141,0.8590000000000001
+woodworking machine operators,0.156,0.8440000000000001
+woodworkers,0.077,0.9229999999999999
+power plant operators,0.09699999999999999,0.903
+power plant distributors,0.09699999999999999,0.903
+power plant dispatchers,0.09699999999999999,0.903
+stationary engineers,0.053,0.948
+boiler operators,0.053,0.948
+water treatment plant operators,0.055,0.945
+water system operators,0.055,0.945
+waste treatment plant operators,0.055,0.945
+waste systems operators,0.055,0.945
+plant operators,0.07,0.93
+system operators,0.07,0.93
+chemical processing machine operators,0.126,0.8740000000000001
+crushing workers,0.12,0.88
+grinding workers,0.12,0.88
+polishing workers,0.12,0.88
+mixing workers,0.12,0.88
+blending workers,0.12,0.88
+cutting workers,0.205,0.795
+extruding machine operators,0.23600000000000002,0.764
+forming machine operators,0.23600000000000002,0.764
+pressing machine operators,0.23600000000000002,0.764
+compacting machine operators,0.23600000000000002,0.764
+furnace operators,0.165,0.8340000000000001
+kiln operators,0.165,0.8340000000000001
+oven operators,0.165,0.8340000000000001
+drier operators,0.165,0.8340000000000001
+kettle operators,0.165,0.8340000000000001
+jewelers,0.396,0.604
+metal workers,0.396,0.604
+dental laboratory technicians,0.535,0.465
+ophthalmic laboratory technicians,0.535,0.465
+medical appliance technicians,0.535,0.465
+packaging machine operators,0.56,0.44
+filling machine operators,0.56,0.44
+photographic process workers,0.348,0.652
+processing machine operators,0.348,0.652
+adhesive bonding machine operators,0.396,0.604
+engravers,0.381,0.619
+paper goods machine operators,0.205,0.795
+tire builders,0.163,0.838
+aircraft pilots,0.044000000000000004,0.956
+flight engineers,0.044000000000000004,0.956
+pilots,0.044000000000000004,0.956
+air traffic controllers,0.162,0.838
+airfield operations specialists,0.162,0.838
+flight attendants,0.71,0.29
+ambulance drivers,0.23800000000000002,0.762
+school bus drivers,0.5770000000000001,0.423
+bus drivers,0.337,0.6629999999999999
+truck drivers,0.055,0.946
+shuttle drivers,0.14400000000000002,0.856
+chauffeurs,0.14400000000000002,0.856
+taxi drivers,0.139,0.861
+locomotive engineers,0.027999999999999997,0.972
+locomotive operators,0.027999999999999997,0.972
+railroad conductors,0.066,0.934
+conductors,0.066,0.934
+yardmasters,0.066,0.934
+rail transportation workers,0.1,0.9
+sailors,0.036000000000000004,0.9640000000000001
+marine oilers,0.036000000000000004,0.9640000000000001
+ship captains,0.046,0.9540000000000001
+boat captains,0.046,0.9540000000000001
+ship operators,0.046,0.9540000000000001
+boat operators,0.046,0.9540000000000001
+parking attendants,0.11,0.89
+transportation service attendants,0.111,0.889
+transportation inspectors,0.14400000000000002,0.856
+passenger attendants,0.655,0.345
+transportation workers,0.16,0.84
+crane operators,0.035,0.965
+tower operators,0.035,0.965
+conveyor operators,0.047,0.953
+dredge operators,0.047,0.953
+hoist and winch operators,0.047,0.953
+industrial truck operators,0.08,0.92
+tractor operators,0.08,0.92
+car cleaners,0.165,0.835
+equipment cleaners,0.165,0.835
+laborers,0.20199999999999999,0.7979999999999999
+freight movers,0.20199999999999999,0.7979999999999999
+stock movers,0.20199999999999999,0.7979999999999999
+and material movers,0.20199999999999999,0.7979999999999999
+machine feeders,0.39299999999999996,0.607
+offbearers,0.39299999999999996,0.607
+packers,0.603,0.397
+packagers,0.603,0.397
+stockers,0.37,0.63
+order fillers,0.37,0.63
+pumping station operators,0.042,0.958
+refuse collectors,0.106,0.894
+recyclable material collectors,0.106,0.894
+garbage collectors,0.106,0.894

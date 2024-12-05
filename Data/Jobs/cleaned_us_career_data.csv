@@ -1,0 +1,520 @@
+Occupation,Number,% Men,% Women
+"chief executives","1,137,000",72.9,27.1
+"general managers, operations managers","965,800",66.5,33.5
+legislators,"9,900",58.4,41.6
+"advertising managers, promotions managers","43,420",44.6,55.4
+marketing managers,"430,600",40.7,59.3
+sales managers,"468,300",67.5,32.5
+"public relations managers, fundraising managers","80,290",33.4,66.7
+administrative services managers,"52,700",30.5,69.6
+facilities managers,"100,200",83.2,16.8
+"computer system managers, information systems managers","591,700",71.3,28.7
+financial managers,"1,124,000",44.3,55.8
+"compensation managers, benefits managers","16,610",23.2,76.8
+human resources managers,"227,900",24.5,75.5
+"training managers, development managers","48,630",45.4,54.6
+industrial production managers,"241,800",77.4,22.6
+purchasing managers,"185,300",50.5,49.5
+"transportation managers, storage managers, distribution managers","238,000",80.3,19.7
+"farmers, ranchers, agricultural managers","375,800",87.2,12.8
+construction managers,"718,600",91.8,8.2
+"education administrators, childcare administrators","755,600",35.6,64.4
+"architectural managers, engineering managers","160,900",88.7,11.4
+food service managers,"708,100",53.1,46.9
+funeral home managers,"5,950",64.7,35.3
+"entertainment managers, recreation managers","27,000",59.4,40.6
+lodging managers,"110,200",49.0,51.0
+"medical managers, health services managers","574,500",27.8,72.2
+natural sciences managers,"14,630",41.0,59.0
+"postmasters, mail superintendents","24,740",50.1,49.9
+"property managers, real estate managers, community association managers","418,000",47.5,52.6
+"social managers, community service managers","314,700",29.9,70.2
+emergency management directors,"11,870",61.4,38.6
+"personal service managers","1,775",25.9,74.4
+"managers","3,507,000",64.1,35.9
+"agents, business managers","28,570",62.9,37.1
+"wholesale buyers, retail buyers","132,500",49.2,50.8
+purchasing agents,"227,200",47.6,52.4
+"claims adjusters, claims appraisers, claims examiners, claims investigators","289,300",39.0,61.0
+compliance officers,"249,800",46.3,53.8
+cost estimators,"120,700",83.9,16.1
+human resources workers,"662,800",24.7,75.3
+"compensation specialists, benefits specialists, job analysis specialists","59,900",21.4,78.6
+"training specialists, development specialists","119,200",45.1,54.9
+logisticians,"133,400",64.6,35.4
+project management specialists,"560,900",55.9,44.1
+management analysts,"660,400",57.2,42.8
+"meeting planners, convention planners, event planners","91,440",23.7,76.3
+"market research analysts, marketing specialists","246,600",41.8,58.3
+business operations specialists,"295,000",44.6,55.4
+"accountants, auditors","1,319,000",40.2,59.8
+"property appraisers, property assessors","65,280",60.3,39.7
+budget analysts,"44,820",39.3,60.7
+credit analysts,"30,250",46.4,53.6
+"financial analysts, investment analysts","234,500",56.5,43.5
+personal financial advisors,"317,800",69.5,30.5
+insurance underwriters,"100,700",40.3,59.8
+financial examiners,"17,310",51.9,48.1
+"credit counselors, loan officers","290,600",43.4,56.6
+"tax examiners, tax collectors, revenue agents","48,440",37.0,63.0
+tax preparers,"42,110",38.4,61.6
+financial specialists,"79,210",43.7,56.3
+"computer scientists, information research scientists, information scientists","26,650",68.6,31.4
+computer systems analysts,"501,800",60.1,39.9
+information security analysts,"113,200",81.1,18.9
+computer programmers,"263,500",79.0,21.0
+"software developers, software engineers","1,386,000",82.0,18.0
+"software quality assurance analysts, software testers","59,120",56.7,43.3
+web developers,"74,950",72.2,27.8
+"web designers, digital interface designers","46,190",57.2,42.8
+computer support specialists,"520,400",74.7,25.3
+"database administrators, database architects","107,600",68.0,32.0
+"network administrators, computer systems administrators","194,700",82.2,17.8
+computer network architects,"102,600",92.2,7.8
+actuaries,"27,390",64.4,35.7
+mathematicians,"3,260",72.2,27.6
+operations research analysts,"136,700",52.2,47.8
+statisticians,"35,580",47.9,52.1
+architects,"159,900",74.0,26.0
+landscape architects,"22,770",66.6,33.4
+"surveyors, cartographers, photogrammetrists","27,240",80.1,19.9
+aerospace engineers,"111,400",87.8,12.2
+agricultural engineers,"2,450",86.9,13.1
+"bioengineers, biomedical engineers","11,270",83.1,16.9
+chemical engineers,"61,820",81.5,18.6
+civil engineers,"335,100",85.0,15.0
+"computer hardware engineers, computer engineers","51,200",84.1,15.9
+"electrical engineers, electronics engineers","210,900",90.9,9.1
+environmental engineers,"26,040",70.0,30.0
+industrial engineers,"212,600",80.4,19.6
+"marine engineers, naval architects","8,500",91.9,8.1
+materials engineers,"44,470",86.5,13.5
+mechanical engineers,"272,900",92.0,8.0
+"mining engineers, geological engineers, mining safety engineers","6,655",94.0,6.0
+nuclear engineers,"5,855",80.8,19.2
+petroleum engineers,"23,080",79.5,20.5
+engineers,"495,100",86.0,14.0
+"architectural drafters, civil drafters","37,890",83.2,16.9
+drafters,"71,630",81.0,19.0
+"electrical engineering technologists, electronic engineering technologists, electrical engineering technicians, electronic engineering technicians","86,100",93.1,6.9
+"engineering technologists, engineering technicians","304,600",81.1,18.9
+"surveying technicians, mapping technicians","49,610",91.6,8.4
+"agricultural scientists, food scientists","23,190",64.6,35.4
+"biological scientists","71,660",50.0,50.0
+"conservation scientists, foresters","18,900",72.5,27.5
+medical scientists,"115,200",44.7,55.3
+"life scientists","5,460",51.6,48.4
+"astronomers, physicists","11,280",86.1,14.0
+"atmospheric scientists, space scientists","9,915",70.2,29.9
+"chemists, materials scientists","88,690",55.7,44.3
+"environmental scientists, environmental specialists","31,810",60.5,39.5
+"geoscientists, hydrologists","34,890",74.9,25.1
+"physical scientists","252,800",56.0,44.
+economists,"24,380",65.0,35.0
+survey researchers,"2,165",45.7,54.3
+"clinical psychologists, counseling psychologists","12,800",27.9,72.2
+school psychologists,"32,260",14.9,85.1
+psychologists,"83,490",29.5,70.5
+"sociologists, social scientists","3,380",40.2,59.8
+"urban planners, regional planners","31,710",57.7,42.3
+"agricultural science technicians, food science technicians","30,150",65.8,34.2
+biological technicians,"18,150",51.6,48.4
+chemical technicians,"53,800",65.8,34.2
+"environmental science technicians, geoscience technicians","14,920",71.1,28.9
+nuclear technicians,"3,020",68.9,31.3
+social science research assistants,"5,420",38.5,61.6
+"science technicians","117,200",51.5,48.5
+"occupational health and safety specialists, occupational health and safety technicians","62,100",70.7,29.3
+"substance abuse counselors, behavioral disorder counselors","81,340",26.4,73.6
+"educational counselors, guidance counselors, career counselors, career advisors, educational advisors","252,200",22.8,77.2
+"marriage therapists, family therapists","19,360",22.3,77.7
+mental health counselors,"79,120",25.0,75.0
+rehabilitation counselors,"20,060",37.9,62.2
+"child social workers, family social workers, school social workers","53,940",17.4,82.6
+healthcare social workers,"62,880",23.5,76.5
+"mental health social workers, substance abuse social workers","14,750",19.8,80.2
+social workers,"546,500",17.7,82.3
+"probation officers, correctional treatment specialists","84,660",45.5,54.5
+"social service assistants, human service assistants","159,800",22.1,78.0
+"community specialists, social service specialists","62,520",35.9,64.1
+"clergy, priest, bishop, deacon","289,600",83.2,16.8
+"directors of religious activities, directors of religious education","42,880",45.0,55.0
+"religious workers","34,740",42.9,57.2
+lawyers,"849,100",60.0,40.0
+"judicial law clerks, law clerks","15,720",24.9,75.1
+"judges, magistrates, judicial workers","53,180",47.0,53.0
+"paralegals, legal assistants","308,100",13.6,86.5
+"title examiners","70,540",32.6,67.4
+"legal support workers","39,900",31.8,68.2
+"postsecondary teachers, lecturers, professors","793,900",51.4,48.6
+"preschool teachers, kindergarten teachers","460,800",2.7,97.3
+"elementary school teachers, middle school teachers","1,945,000",19.8,80.2
+secondary school teachers,"868,700",43.4,56.6
+special education teachers,"291,300",15.9,84.1
+tutors,"17,650",36.6,63.4
+teachers,"338,600",45.6,54.5
+"archivists, curators, museum technicians","48,630",48.7,51.3
+"librarians, media collections specialists","126,400",18.5,81.5
+library technicians,"14,620",30.5,69.5
+teaching assistants,"502,100",17.0,83.0
+"educational instruction workers, library workers","86,060",23.9,76.1
+artists,"136,900",62.5,37.5
+"commercial designers, industrial designers","11,090",67.3,32.7
+fashion designers,"18,080",18.9,81.1
+floral designers,"27,590",13.0,87.0
+graphic designers,"218,100",50.3,49.7
+interior designers,"62,820",20.8,79.2
+"merchandise displayers, window trimmers","12,390",39.6,60.4
+designers,"239,500",59.5,40.5
+actors,"12,260",58.7,41.3
+"producers, directors","130,900",61.3,38.7
+"athletes, sports competitors","23,250",90.6,9.4
+"coaches, scouts","99,710",68.7,31.3
+"umpires, referees, sports officials","2,505",89.0,11.2
+"dancers, choreographers","7,750",26.8,73.2
+"music directors, composers","22,280",82.1,18.0
+"musicians, singers","45,830",79.1,20.9
+"disc jockeys, djs","8,935",93.7,6.2
+"entertainers, performers","19,690",59.3,40.7
+"broadcast announcers, radio disc jockeys","16,250",78.3,21.7
+"news analysts, reporters, journalists","53,110",54.7,45.3
+public relations specialists,"87,440",37.6,62.4
+editors,"89,510",46.8,53.2
+technical writers,"44,150",43.5,56.6
+"writers, authors","115,800",44.7,55.3
+"interpreters, translators","41,630",29.9,70.1
+"court reporters, simultaneous captioners","18,850",9.0,91.0
+"media workers, communication workers","13,580",52.9,47.1
+"broadcast technicians, sound technicians, lighting technicians","61,110",91.1,8.9
+photographers,"80,670",58.0,42.0
+"camera operators, television editors, film editors, video editors","55,850",82.5,17.6
+"media equipment workers, communication equipment workers","1,130",89.8,9.7
+chiropractors,"42,530",74.6,25.4
+dentists,"102,900",65.6,34.4
+"dietitians, nutritionists","67,110",9.9,90.1
+optometrists,"29,170",51.6,48.4
+pharmacists,"238,500",44.5,55.5
+emergency medicine physicians,"12,920",66.4,33.6
+radiologists,"18,100",75.5,24.5
+"physicians, doctors","630,300",60.2,39.9
+surgeons,"44,600",79.8,20.3
+physician assistants,"104,000",34.3,65.7
+podiatrists,"6,570",68.7,31.3
+audiologists,"13,510",17.2,82.8
+occupational therapists,"80,190",13.3,86.7
+physical therapists,"186,800",39.9,60.1
+radiation therapists,"11,790",35.0,65.0
+recreational therapists,"9,065",26.6,73.3
+respiratory therapists,"90,420",37.0,63.0
+"speech - language pathologists, speech therapists, speech pathologists","105,300",5.5,94.5
+exercise physiologists,"4,480",43.4,56.6
+therapists,"107,200",22.3,77.7
+veterinarians,"65,550",32.5,67.5
+"registered nurses","2,333,000",13.5,86.5
+nurse anesthetists,"32,450",42.1,57.9
+nurse midwives,"4,645",0,100.0
+nurse practitioners,"159,600",12.4,87.6
+acupuncturists,"10,080",45.3,54.7
+"clinical laboratory technologists, clinical laboratory technicians","231,100",29.7,70.3
+dental hygienists,"83,970",7.1,92.9
+"cardiovascular technologists, cardiovascular technicians","32,910",44.6,55.4
+diagnostic medical sonographers,"65,180",24.3,75.7
+"radiologic technologists, radiologic technicians","150,600",35.2,64.8
+magnetic resonance imaging technologists,"34,650",47.8,52.2
+"nuclear medicine technologists, medical dosimetrists","18,900",51.4,48.6
+emergency medical technicians,"77,030",59.8,40.2
+paramedics,"87,490",70.7,29.3
+pharmacy technicians,"215,100",23.8,76.2
+psychiatric technicians,"48,130",34.2,65.8
+surgical technologists,"80,920",29.1,70.9
+"veterinary technologists, veterinary technicians","84,090",14.9,85.1
+"dietetic technicians, ophthalmic medical technicians","30,340",18.3,81.7
+"licensed practical nurses, licensed vocational nurses","469,300",11.9,88.1
+medical records specialists,"150,200",8.3,91.7
+"dispensing opticians","45,030",28.8,71.3
+"health technologists, health technicians","102,000",37.8,62.2
+home health aides,"243,500",11.5,88.5
+personal care aides,"624,100",18.3,81.7
+nursing assistants,"804,300",11.1,88.9
+"orderlies, psychiatric aides","44,160",55.0,45.0
+"occupational therapy assistants, occupational therapy aides","29,910",17.9,82.1
+"physical therapist assistants, physical aides","67,640",35.9,64.1
+massage therapists,"65,380",23.2,76.9
+dental assistants,"165,000",6.9,93.1
+medical assistants,"393,300",10.0,90.0
+medical transcriptionists,"19,550",11.7,88.3
+pharmacy aides,"21,280",24.4,75.6
+"veterinary assistants, laboratory animal caretakers","27,370",17.2,82.8
+phlebotomists,"87,140",15.3,84.7
+healthcare support workers,"111,500",33.2,66.8
+first-line supervisors of correctional officers,"33,720",72.9,27.1
+first-line supervisors of police and detectives,"96,740",85.8,14.2
+first-line supervisors of firefighting and prevention workers,"47,200",95.5,4.5
+first-line supervisors of security workers,"63,730",74.4,25.6
+"first-line supervisors of protective service workers","2,470",77.7,22.5
+firefighters,"277,300",96.5,3.5
+fire inspectors,"22,200",87.5,12.5
+bailiffs,"17,570",62.4,37.6
+"correctional officers, jailers","317,900",71.3,28.7
+"detectives, criminal investigators","138,800",75.5,24.5
+fish and game wardens,"5,105",83.6,16.5
+parking enforcement workers,"6,195",63.8,36.2
+police officers,"691,600",85.3,14.7
+animal control workers,"7,655",60.0,40.0
+"private detectives, private investigators","75,890",52.9,47.1
+"security guards, gambling surveillance officers","587,100",74.6,25.4
+"crossing guards, flaggers","11,410",61.1,38.9
+transportation security screeners,"34,750",53.7,46.3
+school bus monitors,"9,380",22.6,77.4
+"chefs, head cooks","374,900",81.1,18.9
+first-line supervisors of food preparation and serving workers,"306,200",44.4,55.6
+cooks,"1,041,000",59.2,40.8
+food preparation workers,"296,700",41.2,58.8
+bartenders,"207,900",50.5,49.5
+"fast food workers, counter workers","101,500",32.2,67.8
+"waiters","527,100",36.1,64.0
+"dining room attendants, cafeteria attendants, bartender helpers","74,060",55.2,44.8
+dishwashers,"87,060",73.4,26.6
+"hosts","29,580",19.2,80.8
+first-line supervisors of housekeeping and janitorial workers,"189,500",62.4,37.6
+"first-line supervisors of landscaping and lawn service and groundskeeping workers","124,200",93.9,6.1
+"janitors, building cleaners","1,378,000",70.3,29.7
+"maids, housekeeping cleaners, housekeepers","722,300",14.6,85.4
+pest control workers,"61,850",96.2,3.8
+"landscaping workers, landscapers, groundskeeping workers","629,600",94.3,5.7
+"tree trimmers, pruners","61,490",97.6,2.4
+supervisors of personal care and service workers,"88,730",42.3,57.7
+animal trainers,"27,230",38.3,61.7
+animal caretakers,"114,700",28.7,71.3
+gambling services workers,"69,020",50.4,49.6
+"ushers, lobby attendants, ticket takers","6,310",52.2,47.8
+"embalmers, crematory operators, funeral attendants","3,835",62.5,37.6
+"morticians, undertakers, funeral arrangers","27,700",68.1,31.9
+barbers,"69,010",80.1,20.0
+"hairdressers, hairstylists, cosmetologists","384,100",11.3,88.7
+"manicurists, pedicurists","170,200",22.2,77.8
+skincare specialists,"29,530",3.3,96.7
+"baggage porters, bellhops, concierges","58,900",72.1,27.9
+"tour guides, travel guides","18,180",64.7,35.3
+childcare workers,"391,200",5.3,94.7
+"exercise trainers, group fitness instructors","88,320",55.2,44.8
+recreation workers,"86,380",30.6,69.4
+residential advisors,"21,570",31.5,68.5
+first-line supervisors of retail salespersons,"2,295,000",55.8,44.2
+first-line supervisors of non retail salespersons,"909,000",65.4,34.6
+cashiers,"738,500",27.9,72.1
+"counter clerks, rental clerks","48,070",62.5,37.5
+"parts salespersons, retail sales worker","89,350",87.7,12.3
+"retail salespersons","1,332,000",61.5,38.5
+advertising sales agents,"93,600",46.5,53.5
+insurance sales agents,"435,700",49.1,50.9
+"securities agents, commodities agents, financial services sales agents","185,500",72.6,27.5
+travel agents,"49,380",22.3,77.7
+"sales representatives of services","472,700",68.8,31.2
+"wholesale sales representatives, manufacturing sales representatives","1,045,000",73.1,26.9
+"models, product promoters","11,490",37.0,63.1
+"real estate brokers, sales agents, real estate agents","548,600",48.3,51.7
+sales engineers,"41,780",90.5,9.6
+telemarketers,"19,330",36.3,63.7
+"door - to - door salespersons, news vendors, street vendors","41,410",54.5,45.5
+"salespersons","184,300",53.7,46.3
+first-line supervisors of office and administrative support workers,"862,400",33.9,66.1
+"switchboard operators","13,410",23.0,77.0
+telephone operators,"20,690",27.7,72.3
+"communications equipment operators","6,255",58.4,41.6
+"bill collectors, account collectors","106,700",25.6,74.4
+"billing clerks, posting clerks","348,000",13.0,87.0
+"bookkeeping clerks, accounting clerks, auditing clerks","720,000",12.3,87.7
+gambling cage workers,"9,450",26.8,73.2
+"payroll clerks, timekeeping clerks","112,800",12.9,87.2
+procurement clerks,"34,400",42.7,57.3
+tellers,"147,800",15.7,84.3
+financial clerks,"82,530",39.0,61.1
+brokerage clerks,"6,585",20.3,79.7
+correspondence clerks,"3,450",28.1,71.9
+"court clerks, municipal clerks, license clerks","65,900",20.2,79.8
+"credit authorizers, credit checkers, credit clerks","29,640",27.1,72.9
+customer service representatives,"1,627,000",32.9,67.1
+"eligibility interviewers","68,620",15.2,84.9
+file clerks,"84,590",23.4,76.6
+"hotel desk clerks, motel desk clerks, resort desk clerks","67,090",40.9,59.1
+"interviewers","104,000",21.2,78.9
+"library assistants","32,440",21.1,78.9
+"loan interviewers, loan clerks","101,700",25.5,74.5
+new accounts clerks,"12,860",22.2,77.8
+order clerks,"64,670",44.3,55.7
+human resources assistants,"41,300",17.9,82.1
+"receptionists, information clerks","637,600",9.4,90.6
+"reservation agents, transportation ticket agents, travel clerks","89,420",50.0,50.0
+"information clerks, record clerks","76,610",19.6,80.4
+"cargo agents, freight agents","18,280",67.3,32.8
+"couriers, messengers","183,800",84.8,15.2
+public safety telecommunicators,"79,970",32.6,67.4
+dispatchers,"141,200",52.1,47.9
+"meter readers","15,450",86.0,14.0
+postal service clerks,"100,400",41.6,58.4
+mail carriers,"269,000",63.4,36.6
+"mail sorters, mail processors, mail processing machine operators","41,370",48.2,51.8
+"production clerks, planning clerks, expediting clerks","248,900",47.0,53.0
+"shipping clerks, receiving clerks, and inventory clerks","444,900",66.9,33.1
+"weighers, measurers, checkers, samplers","59,280",52.6,47.4
+"executive secretaries, executive administrative assistants","198,800",5.0,95.0
+"legal secretaries, legal administrative assistants","44,090",5.1,94.9
+"medical secretaries, medical administrative assistants","51,560",4.0,96.0
+"secretaries, administrative assistants","1,499,000",6.1,93.9
+data entry keyers,"159,800",21.1,78.9
+"word processors, typists","28,260",15.4,84.6
+desktop publishers,"1,365",65.6,34.8
+"insurance claims processing clerks, policy processing clerks","157,400",19.1,81.0
+"mail clerks, mail machine operators","38,980",51.9,48.1
+"office clerks","720,500",15.9,84.1
+"office machine operators","20,580",44.9,55.1
+"proofreaders, copy markers","5,955",32.2,67.7
+statistical assistants,"21,290",42.1,58.0
+"office support workers, administrative support workers","458,300",25.5,74.5
+"first-line supervisors of farming and fishing and forestry workers","38,000",87.7,12.3
+agricultural inspectors,"8,840",58.8,41.1
+animal breeders,"4,545",65.5,34.7
+graders,"31,870",37.7,62.3
+agricultural workers,"394,100",82.3,17.7
+"fishing workers, hunting workers","17,530",97.0,3.0
+"forest workers, conservation workers","10,970",86.6,13.4
+logging workers,"30,630",97.6,2.4
+first-line supervisors of construction trades and extraction workers,"537,000",97.1,3.0
+"brickmasons, blockmasons, stonemasons","89,510",99.0,1.0
+carpenters,"849,400",98.3,1.7
+"carpet installers, floor installers, tile installers, carpet finishers, floor finishers, tile finishers","95,160",96.2,3.8
+"cement masons, concrete finishers, terrazzo workers","44,810",98.9,1.1
+"construction laborers, construction worker","1,161,000",96.6,3.4
+construction equipment operators,"279,900",97.9,2.1
+"drywall installers, ceiling tile installers","88,910",97.2,2.8
+electricians,"705,300",98.2,1.8
+glaziers,"34,830",98.8,1.2
+insulation workers,"33,850",96.7,3.3
+"painters, paperhangers","360,000",92.8,7.2
+pipelayers,"35,230",97.6,2.4
+"plumbers, pipefitters, steamfitters","439,100",98.6,1.4
+rebar workers,"4,605",95.3,4.7
+roofers,"136,000",97.9,2.1
+sheet metal workers,"102,900",95.6,4.4
+"structural iron workers, steel workers","51,180",99.4,0.6
+"construction inspectors, building inspectors","74,790",90.2,9.8
+"elevator installers, escalator installers, elevator repairers","25,780",98.1,1.9
+fence erectors,"18,900",99.0,1.0
+hazardous materials removal workers,"17,550",76.5,23.6
+highway maintenance workers,"76,610",96.1,4.0
+"septic tank servicers, sewer pipe cleaners","5,600",98.3,1.7
+"derrick operator, rotary drill operator, service unit operators","18,880",97.9,2.1
+"earth drillers","19,510",97.8,2.2
+underground mining machine operators,"40,740",98.1,1.9
+"roustabouts","5,900",100.0,0
+extraction workers,"50,010",96.9,3.1
+"first-line supervisors of mechanics and installers and repairers","204,200",93.4,6.6
+"computer repairers, automated teller repairers, and office machine repairers","117,900",91.3,8.7
+"radio equipemnt installers, telecommunications equipment installers, telecommunications equipment repairers, radio equipemnt repairers","126,900",92.9,7.1
+avionics technicians,"13,420",91.1,9.0
+"electric motor repairers, power tool repairers","20,540",95.0,5.0
+"industrial electrical repairers, industrial electronics repairers","11,630",94.9,5.1
+"electronic equipment installers, electronic equipemnt repairers","7,000",88.4,11.5
+"audiovisual equipment installers, audiovisual equipment  repairers","19,130",94.4,5.6
+"security system installers, fire alarm systems installers","46,010",97.5,2.5
+"aircraft mechanics, aircraft service technicians","128,700",95.6,4.4
+automotive body repairers,"107,900",97.6,2.4
+"automotive glass installers, automotive glass repairers","15,040",96.6,3.4
+"automotive service technicians, car mechanics","625,900",98.1,1.9
+"bus mechanics, truck mechanics, diesel engine specialists","233,700",98.8,1.2
+"heavy vehicle mechanic, heavy vehicle technicians, mobile equipment service technicians","184,200",98.5,1.5
+small engine mechanics,"31,160",97.6,2.4
+"valve installers, vale repairers, control installers, control repairers","16,630",94.4,5.6
+"heating mechanics, air conditioning mechanics, ac mechanics, refrigeration mechanics","325,900",98.4,1.6
+home appliance repairers,"31,670",98.7,1.3
+"industrial machinery mechanics, refractory machinery mechanics","323,700",96.1,3.9
+"maintenance workers, repair workers, repairers","509,800",95.0,5.0
+millwrights,"39,040",97.7,2.3
+"power line installers, power line repairers","93,570",98.9,1.1
+"telecommunications line installers, telecommunications line repairers","111,900",95.2,4.8
+"precision instrument repairers, precision equipment installers","41,820",90.5,9.5
+wind turbine service technicians,"3,530",94.5,5.5
+"coin machine servicers, vending machine servicers, amusement machine servicers","20,040",91.1,8.9
+"locksmiths, safe repairers","18,640",96.0,4.1
+"manufactured building installers, mobile home installers","2,115",100.0,0
+riggers,"7,395",94.1,5.8
+first-line supervisors of production and operating workers,"689,300",80.4,19.6
+"aircraft assemblers","3,810",75.7,24.4
+"electrical assemblers, electronics assemblers, and electromechanical assemblers","94,300",49.7,50.3
+engine assemblers,"9,290",89.1,10.9
+"structural metal fabricators,  structural metal fitters","19,400",96.3,3.7
+fabricators,"700,800",62.5,37.5
+bakers,"121,500",44.0,56.0
+"butchers, meat processing worker, poultry processing worker, fish processing workers","170,900",76.0,24.0
+food batchmakers,"53,420",45.7,54.3
+"food cooking machine operators, food cooking machine tenders","7,005",54.7,45.3
+"food processing workers","108,800",67.6,32.5
+"production workers","6,409,000",73.0,27.0
+machinists,"288,200",95.1,4.9
+"metal furnace operators","20,600",88.3,11.7
+"model makers, patternmakers","5,525",88.3,11.6
+"molders","30,690",83.8,16.2
+"tool makers, die makers","48,240",98.4,1.6
+"welders, soldering workers, brazing workers","453,100",93.9,6.1
+"prepress technicians, prepress workers","16,050",66.2,33.8
+printing press operators,"119,100",81.3,18.7
+"print binders, finishing workers","11,230",68.9,31.1
+"laundry workers, dry cleaning workers","88,060",35.2,64.9
+sewing machine operators,"97,090",28.3,71.7
+"shoe workers, shoe makers, shoemakers, leather workers","8,605",74.6,25.5
+"tailors, dressmakers","36,330",27.3,72.7
+"textile machine operators","17,630",46.3,53.7
+upholsterers,"21,980",84.4,15.6
+"cabinetmakers, bench carpenters","39,850",91.2,8.8
+furniture finishers,"6,260",83.0,17.1
+"sawing machine operators","21,100",85.9,14.1
+"woodworking machine operators","13,520",84.4,15.6
+woodworkers,"16,950",92.3,7.7
+"power plant operators,  power plant distributors, power plant dispatchers","42,950",90.3,9.7
+"stationary engineers, boiler operators","91,570",94.8,5.3
+"water treatment plant operators, water system operators, waste treatment plant operators, waste systems operators","84,150",94.5,5.5
+"plant operators, system operators","36,980",93.0,7.0
+"chemical processing machine operators","61,370",87.4,12.6
+"crushing workers, grinding workers, polishing workers, mixing workers, blending workers","73,220",88.0,12.0
+cutting workers,"45,390",79.5,20.5
+"extruding machine operators, forming machine operators, pressing machine operators, compacting machine operators","19,800",76.4,23.6
+"furnace operators, kiln operators, oven operators, drier operators, kettle operators","7,420",83.4,16.5
+"jewelers, precious stone and metal workers, metal workers","29,010",60.4,39.6
+"dental laboratory technicians, ophthalmic laboratory technicians, medical appliance technicians","61,820",46.5,53.5
+"packaging machine operators, filling machine operators","180,700",44.0,56.0
+"photographic process workers, processing machine operators","17,680",65.2,34.8
+adhesive bonding machine operators,"8,805",60.4,39.6
+engravers,"4,905",61.9,38.1
+"paper goods machine operators","17,810",79.5,20.5
+tire builders,"10,250",83.8,16.3
+supervisors of transportation and material moving workers,"218,400",80.6,19.4
+"aircraft pilots, flight engineers, pilots","105,700",95.6,4.4
+"air traffic controllers, airfield operations specialists","31,120",83.8,16.2
+flight attendants,"55,190",29.0,71.0
+"ambulance drivers","4,555",76.2,23.8
+"school bus drivers","96,860",42.3,57.7
+"bus drivers","172,200",66.3,33.7
+"truck drivers","2,601,000",94.6,5.5
+"shuttle drivers, chauffeurs","60,260",85.6,14.4
+taxi drivers,"273,000",86.1,13.9
+"locomotive engineers, locomotive operators","39,460",97.2,2.8
+"railroad conductors, conductors, yardmasters","42,880",93.4,6.6
+rail transportation workers,"18,850",90.0,10.0
+"sailors, marine oilers","14,250",96.4,3.6
+"ship captains, boat captains, ship operators, boat operators","24,480",95.4,4.6
+parking attendants,"37,160",89.0,11.0
+transportation service attendants,"47,870",88.9,11.1
+transportation inspectors,"36,290",85.6,14.4
+passenger attendants,"15,350",34.5,65.5
+transportation workers,"22,040",84.0,16.0
+"crane operators, tower operators","47,730",96.5,3.5
+"conveyor operators, dredge operators, hoist and winch operators","16,640",95.3,4.7
+"industrial truck operators, tractor operators","481,600",92.0,8.0
+"car cleaners, equipment cleaners","183,400",83.5,16.5
+"laborers, freight movers, stock movers, and material movers","1,237,000",79.8,20.2
+"machine feeders, offbearers","20,680",60.7,39.3
+"packers, packagers","282,400",39.7,60.3
+"stockers, order fillers","699,600",63.0,37.0
+pumping station operators,"17,430",95.8,4.2
+"refuse collectors, recyclable material collectors, garbage collectors","57,220",89.4,10.6

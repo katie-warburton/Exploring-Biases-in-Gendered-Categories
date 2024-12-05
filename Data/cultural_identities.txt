@@ -1,0 +1,1390 @@
+IDENTITY
+copts
+kuwarranyji
+tampuans
+livonians
+mishar tatars
+bhutanese
+wallisian
+first nations
+qatari
+austrian
+belizean creoles
+doukhobors
+saint lucian
+jita
+bari
+masa
+dargins
+rendille
+guan
+moken
+nauruan
+lani
+votians
+kashubians
+palestinian
+pacific islander
+mossi
+bribri
+eurasian singaporeans
+lezgins
+saho
+kaluli
+ternateans
+odawa
+estonians
+guajajara
+romanian
+armenian
+uzbeks
+kalenjin
+urak lawoi
+cho ro
+lithuanians
+maithils
+caipiras
+palula
+goan catholics
+chechens
+sicilians
+bretons
+macedonian
+egyptians
+ekoi
+makua
+bidayuh
+nicaraguan
+middle eastern
+cayuga
+xerente
+ecuadorian
+israelite
+sri lankan
+balondo ba konja
+norwegians
+tiwa
+bamars
+afro nicaraguans
+myanma
+maltese
+taiwanese
+nuu chah nulth
+arapaho
+seychellois creoles
+malinese
+indo south africans
+sandawe
+bubi
+american
+rajbanshi
+english
+yao
+argobba
+iranun
+niuean
+great andamanese
+chamorro
+cocos island
+barthélemois
+tsakhurs
+khanty
+comanche
+beja
+macedonians
+tharus
+curaçaoan
+punjabi mexican americans
+loloda
+afghan
+afro caribbean
+bosniaks
+hutu
+kosovan
+hispanic americans
+matawai
+zanzibari
+ute
+mundas
+budu
+kaingang
+slovenian
+agaw
+bisayas
+zonians
+kickapoo
+colombian
+honduran
+mien
+musgum
+occitans
+jarawas
+montenegrins
+ainus
+nevisian
+amish
+ibibio
+aruban
+lebanese
+lisu
+limba
+shilluk
+bosnian
+jadgals
+mijikenda
+guinean
+kumandins
+saint helenians
+tibetans
+bezhta
+iranis
+lurs
+bahamian
+inuit
+czech
+kereks
+blackfoot
+luxembourgers
+caddo
+chelkans
+shompen
+harari
+iban
+alabamas
+tarok
+gabrieleños
+czechoslovaks
+vedda
+nuxalk
+sub saharan african
+kunama
+french polynesian
+kposo
+tunisian
+dominican
+kulin
+hong konger
+arrernte
+yakan
+karatas
+anglo irish
+tebers
+brahuis
+dhimal
+dominickers
+aka
+brazilian
+megleno romanians
+bariba
+sammarinese
+friulians
+portuguese
+kanuri
+u s
+ganda
+mardijkers
+syrian
+tutsi
+lemba
+ulchi
+basotho
+nama
+fijians
+tboli
+gade
+antarctic
+ijaw
+aikana
+mbugu
+malasar
+nagas
+ghorbati
+kosovar
+kodava
+northern irish
+masalit
+chakmas
+tsez
+khorasani turks
+north african
+british virgin island
+martinican
+chickasaw
+sri lankan moors
+balanta
+chokwe
+haratins
+bwatiye
+tokelauans
+molokans
+susu
+idoma
+upper kuskokwim
+tagalogs
+heiltsuk
+rade
+indos
+bhojpuris
+anglo americans
+ōbeikei islanders
+siberian yupik
+konjo
+purepecha
+banda
+dutch
+salar
+comorian
+sundanese
+afar
+malawian
+apanyekra
+malays
+tehuelche
+miskito
+nepalese
+punjabis
+southeast asian
+niueans
+papua new guinean
+urhobos
+circassians
+nkole
+kerewe
+bassa
+sumbawa
+palembangese
+doms
+pashayi
+south african
+timorese
+aynu
+semnanis
+iranian
+terena
+ibanag
+congolese
+tongan
+kinga
+syrian turkmen
+croats
+senegalese
+venezuelan
+algerian
+jukun
+tuamotuans
+pitcairn island
+south carolina turks
+qashqai
+zimbabwean
+potawatomi
+burmese
+mapuche
+tahtacı
+swedes
+kissi
+soninke
+kirghiz
+sámi
+tamils
+trumai
+ingushes
+pashtuns
+danish
+sierra leone creoles
+gibraltar
+chulyms
+vincentian
+maldivian
+warlpiris
+wuikinuxv
+chepang
+french canadians
+solomon island
+orcadians
+kazakh
+north korean
+norwegian
+tidore
+mormons
+arará
+yemeni
+indigenous
+jambian
+métis
+rakhine
+georgians
+gbagyi
+magahi
+polish
+arabs
+khwarshi
+matagi
+kiowa
+finnish
+assyrians
+austral islanders
+shirazi
+saint thomas christians
+burundian
+montserratian
+saint helenian
+balinese
+melanau
+belarusians
+kanaks
+ashkali
+highland travellers
+belizean
+hispanic
+je
+kashmiris
+carolinians
+gibraltarians
+nahuas
+serer
+mandarese
+tswana
+coushatta
+gonds
+laotian
+mongondow
+muslimani
+senufo
+ekari
+vietnamese
+bimanese
+swedish
+nùng
+yoruba
+meitei
+tabasaran
+moldovan
+erzyas
+african
+palauan
+cahuilla
+afro virgin islanders
+tanzanian
+mumuye
+afro bolivians
+yali
+american samoan
+oroqens
+filipino
+nuristanis
+basters
+gbaya
+saudi arabian
+falkland island
+mandinka
+naso
+kwaya
+futunan
+karategin uzbeks
+buryats
+faroese
+bolivian
+ukrainian
+germans
+central asian
+moriori
+samana americans
+nubians
+sika
+malaysian
+tagish
+albanian
+gorals
+ngbandi
+aimaq
+kosraeans
+tobelo
+anuak
+philippine
+māori
+sulanese
+ati
+gorani
+macushi
+sotho
+konda reddis
+kapampangans
+elbegli
+mafa
+yakuts
+guna
+cherokee
+cape malays
+sudanese
+samaritans
+anglo canadians
+hazaras
+izhorians
+lhotshampa
+ivorian
+rapa nui
+belarusian
+magyar
+galicians
+parachis
+kru
+amung
+pangasinese
+potiguara
+jamaican
+hadza
+hehe
+ramkokamekra
+atoni
+gogo
+chumash
+kiga
+madurese
+ghomaras
+comoran
+luhya
+makassarese
+gambian
+guadeloupe
+nipmucs
+munanese
+jordanian
+embera
+mazatec
+choctaw
+gabonese
+hän
+liechtensteiner
+lao
+aymara
+surinamese
+frisians
+telengits
+dobrujan tatars
+savu
+slovenes
+iraqi turkmen
+tuscarora
+nyambo
+chuvash
+libyan
+kilba
+camminanti
+sidama
+somali
+salvadoran
+ghanaian
+atacama
+cook islanders
+zulu
+yako
+mandaeans
+maya
+malayarayans
+ladins
+hadiya
+americo liberians
+nias
+bondei
+taino
+ni vanuatu
+sankethi brahmin
+andorran
+turkmens
+tuluvas
+dani
+tlingit
+bilala
+banjarese
+monacan
+ngoni
+afrikaners
+minahasan
+klallam
+budukhs
+cantonese
+singaporean
+sibe
+yukaghir
+yahgan
+aneuk jamee
+alutiiq
+afro brazilians
+shan
+marathi
+samoan
+caymanian
+manavs
+omani
+akhvakhs
+siltʼe
+kaguru
+kabyle
+oromo
+bru
+natchez
+tuvans
+mixe
+azerbaijanis
+gosha
+metis
+bahraini
+mazahua
+karamanlides
+kumzari
+fula
+jola
+sherbro
+druze
+dogon
+poles
+new caledonian
+south korean
+itelmens
+easter european
+panamanian
+clatsop
+fipa
+konso
+fijian
+paramaccan
+nez perce
+trawara
+cabo verdean
+hunzibs
+damara
+scots
+russians
+martiniquais
+igede
+teke
+madi
+persian
+botlikhs
+buduma
+barbudan
+magars
+mi kmaq
+danes
+sahrawis
+oneida
+conch
+shiriana
+caldoche
+cocopah
+mosuo
+bissau guinean
+khmer
+tsonga
+nuer
+kalmyks
+umatilla
+iatmul
+tofalars
+luso indians
+albanians
+xokleng
+georgian
+saudi
+bemba
+larrakia
+kannadigas
+aranadans
+african americans
+tsimshian
+tausūg
+mannan
+slovene
+sasak
+kazakhs
+abkhazian
+paraguayan
+pitjantjara
+gamilaraay
+kassena
+aboriginal
+baraks
+haisla
+quechan
+khasi
+kirgiz
+bermudan
+kwinti
+roma
+vaticanian
+esan
+pākehā
+yaghnobis
+ambundu
+rutuls
+chams
+mambai
+batwa
+burghers
+okies
+helong
+zapotecs
+manx
+boa
+butonese
+vanuatuan
+akha
+corsicans
+id
+sindhis
+atikamekw
+chagossians
+kayapo
+khas
+mohawk
+kittitian
+armenians
+aja
+evenks
+bauzi
+gurungs
+indo fijians
+dutch afro caribbean
+spanish
+mon
+berom
+yapese
+bangladeshi
+ticuna
+apinajé
+united kingdom
+han chinese
+ovambo
+tigre
+hungarians
+mauritian
+visayans
+jan mayen
+kemak
+walloons
+efik
+hispanic afro caribbeans
+white
+jamaican maroons
+hellenic
+dukha
+andis
+nubis
+torres strait islanders
+french guianese
+jews
+tahltan
+anglo burmese
+zhuang
+dubla
+asmat
+maldivians
+amhara
+koryaks
+badagas
+indo mauritians
+macanese
+yup ik
+bwa
+black britons
+norfolk islanders
+kvens
+mcdonald island
+mexican
+bura
+sint eustatius
+yenish
+dagombas
+são toméan
+monégasque
+ha
+formosan
+beti
+zoró
+pohnpeian
+hindustani
+mauritanian
+dolgans
+innu
+konkani
+waropen
+shilha
+anguillan
+mongolian
+caicos island
+latvians
+sui
+abagusii
+ogiek
+wolane
+cornish
+garifunas
+south sea islanders
+christmas island
+bororo
+volga tatars
+vilamovians
+tupuri
+estonian
+uzbek
+svalbard
+ryukyuans
+aleuts
+karakalpaks
+cabiyari
+kofyar
+assamese
+bunun
+toraja
+costa rican
+greeks
+mongols
+mokshas
+kwere
+kapsiki
+tigrayans
+mappila muslims
+gagauz
+igorot
+dyula
+khakas
+sri lankan chetties
+tokelauan
+qarai turks
+gurunsi
+malagasy
+moroccan
+afro argentines
+lom
+toucouleur
+bakossi
+lettish
+emiri
+achagua
+bishnupriyas
+ili turks
+jarai
+sukuma
+gurindji
+kyrgyz
+afghan tatars
+mudburra
+sumba
+bembe
+turkish
+tao
+tutejszy
+bermudian
+vepsians
+sioux
+yuchi
+turks
+wolof
+mazandaranis
+jerusalemite greek christians
+ga adangbe
+equatoguinean
+australian
+french afro caribbean
+yoa lokpa
+gros ventre
+telugus
+bengalis
+maasai
+bhils
+laz
+british
+south american
+greek
+gitxsan
+raizal
+gelao
+shopi
+moravians
+godoberis
+japanese
+ulster protestants
+ilocano
+qaratays
+kyrgyzstani
+micronesian
+tamangs
+banjara
+lipka tatars
+south sudanese
+italian
+swiss
+buginese
+gaviao
+mennonites
+afro turks
+cameroonian
+confederados
+isan
+parsis
+sonsorolese
+luo
+rajasthanis
+baharna
+sakizaya
+east indian catholics
+babur
+canadian
+nyishi
+saban
+basques
+itawes
+ngalop
+turkmen
+hmong
+indonesian
+german
+canary islanders
+karuk
+lombards
+piapoco
+welsh
+eritrean
+marshallese
+spaniards
+saramaka
+tallensi
+persians
+kraho
+powhatans
+soyots
+futuna
+beninois
+soqotris
+angu
+taidnapam
+toubou
+ǃkung
+deccani
+lower cowlitz
+valencians
+french louisianians
+hungarian
+sinhalese
+mwera
+baining
+european
+kumaonis
+rwandan
+austrians
+åland island
+khalaj
+hinukh
+makianese
+crimean tatars
+asian
+mbaka
+cholanaikkans
+deg xitʼan
+scottish
+rifians
+venda
+kurukh
+nigerien
+galela
+cirebonese
+bruneian
+guarani
+mising
+garos
+italians
+finns
+hong kong
+gwich in
+tajiks
+cinta larga
+kamentsa
+lhoba
+taos
+tanana athabaskans
+monacans
+saint pierrais
+cape coloureds
+asturians
+bulgarian
+berta
+rotumans
+flemings
+kamba
+luso brazilians
+biot
+khonds
+motu
+croatian
+hawaiians
+garhwalis
+baniwa
+abkhazians
+navajo
+maguindanao
+tapayuna
+black
+pied noir
+slovaks
+santal
+abkhaz
+faroe islanders
+tlapanec
+egyptian
+zomi
+bambara
+aromanians
+swazi
+poleshuks
+kao
+silesians
+kadazan dusun
+ndendeule
+kirantis
+nagpuri
+palawa
+pende
+shawnee
+gurma
+papuan
+indo caribbeans
+lubu
+antiochian greek christians
+tuvaluan
+icelandic
+rhodesians
+muthuvans
+new zealand
+mehri
+songhai
+maronites
+bhumijs
+montenegrin
+fang
+iraqi
+lega
+udmurts
+gedeo
+mozambican
+surma
+burkinabé
+emirian
+burushos
+chilean
+bangweulu twa
+afemai
+barbadian
+ossetians
+selkups
+jingpo
+nigerian
+nanai
+karachays
+melungeons
+salinan
+gnawas
+south asian
+kumyks
+atyap
+bodo
+bicolanos
+ukrainians
+karen
+misak
+bouvet island
+marquesas islanders
+yugambeh
+tujia
+acehnese
+altaians
+bena
+pitcairn islanders
+gilaks
+tunica biloxi
+koyukon
+peruvian
+luba
+sri lanka malays
+grenadian
+siberian tatars
+onge
+betawis
+xavante
+serbian
+guatemalan
+chewa
+hopi
+irish travellers
+bagirmi
+lithuanian
+cuban
+russian
+trinidadian
+samoans
+akans
+qiang
+talysh
+siona
+charrúa
+dinka
+chutiya
+manchus
+belgian
+liberian
+lumbee
+damia
+rejangese
+chaoui
+kenyan
+iraqw
+ngaju
+laks
+sentinelese
+rabari
+shors
+bonaire
+czechs
+irish
+miami
+orochs
+uruguayan
+maranao
+zambian
+afro colombians
+kpelle
+swati
+bakarwal
+bagvalals
+comorians
+pare
+thais
+shona
+amis
+miquelonnais
+minangkabau
+syriacs
+anglo celtic australians
+huli
+rondonia
+luxembourg
+makaa
+french southern territories
+aghuls
+alur
+koches
+mixtec
+tooro
+bozo
+hausa
+lenca
+sardinians
+palau
+cofan
+u s virgin island
+kafwe twa
+ovimbundu
+welayta
+native american
+isoko
+chehalis
+monegasques
+ogu
+kuteb
+hani
+malian
+muscogee
+istro romanians
+imraguen
+gajal
+ket
+kwakwaka wakw
+anglo new zealanders
+seneca
+cook island
+waxiang
+angolan
+mahar
+zuni
+réunionese
+cocos malays
+uyghurs
+sierra leonean
+pedi
+udis
+chaga
+chaharmahali turks
+karelians
+newars
+shoshone
+saint vincentian
+miccosukee
+lenape
+kalinago
+kristang
+quileute
+bai
+acholi
+bashkirs
+oji cree
+alyutors
+chenouas
+balti
+awa
+kuwaiti
+zande
+yamato
+mansi
+mahoran
+balochs
+bamileke
+guamanian
+gujarati
+mughal
+chinese
+east asian
+romansh
+sambal
+aragonese
+tobagonian
+khoja
+qulla
+cree
+ewe
+awadhis
+daurs
+wallis
+cypriot
+bouyei
+sharchops
+malayalis
+wakhi
+bokota
+zaghawa
+ormurs
+uk
+argentine
+odia
+atayals
+romanians
+nogais
+fuyu kyrgyz
+puerto rican
+kalash
+haida
+soga
+slovak
+lodha
+tabaru
+saurashtras
+latvian
+dawoodi bohra
+statian
+karbi
+tiwi
+lori
+latino
+adjoukrou
+nenets
+denaʼina
+ahiarmiut
+balkars
+dongxiangs
+asurs
+luxembourgish
+edo
+central american
+gola
+berbers
+fur
+rusyns
+chinese tatars
+kalanga
+zamboanguenos
+lamaholot
+kongo
+assiniboine
+chuukese
+bazigar
+wassamasaw
+bahnar
+central african
+united states
+south sandwich island
+quechua
+tahitians
+maris
+ot danum
+avars
+sri lanka kaffirs
+chuanqing
+togolese
+koreans
+van baoria
+kaska dena
+apache
+kryts
+nivkhs
+seminoles
+blaan
+mauritian creoles
+ranquel
+bajuni
+bandanese
+abenaki
+pataxó
+kazakhstani
+moldovans
+igbo
+luritja
+abazins
+evens
+yi
+jeks
+antiguan
+herzegovinian
+bulgarians
+catalans
+ebira
+swahili
+nauruans
+murut
+nakoda
+dagaaba
+beninese
+thai
+wayuu
+indus kohistanis
+li
+ambonese
+yanomami
+gurage
+nganasans
+singapore
+azerbaijani
+north american
+herero
+sint maarten
+turkana
+yerukala
+makah
+chuvans
+ogoni
+shina
+pennsylvania dutch
+onondaga
+adi jambava
+manjak
+vaqueiros de alzada
+muhajir
+ngabe
+rohingyas
+kikuyu
+sirenik
+seychellois
+fon
+tama
+nunatukavummiut
+réunionnais
+chamalals
+papel
+chadian
+oku
+gumuz
+bateri
+luso africans
+anglo indians
+icelanders
+cambodian
+nepali
+tongans
+pakistani
+ahoms
+akie
+kiribati
+lampungs
+sahrawi
+sama bajau
+serbs
+guyanese
+ethiopian
+israeli
+gayonese
+skokomish
+tuvaluans
+dogras
+black nova scotians
+dwe e
+arameans
+south georgia island
+ojibwe
+sylhetis
+amdang
+bunak
+khinalugs
+bamum
+norfolk island
+kuria
+rotenese
+uzbekistani
+siddi
+alavi bohras
+equatorial guinean
+kurds
+gurjars
+finnish tatars
+batak
+indian
+resians
+podlashuks
+kerincian
+hutterites
+mambila
+djiboutian
+crow
+french
+keres
+tripuri
+mende
+pamiris
+somalis
+heard island
+bonairean
+gorontalo
+reisende
+greenlandic
+bissa
+xhosa
+tiv
+cheyennes
+redbones
+sorbs
+makonde
+manggarai
+mangalorean catholics
+moghols
+yugoslavs
+argentinian
+south ossetian
+javanese
+ugandan
+walla walla
+komi
+wa
+enets
+saint martinoise
+pardo
+haya
+temne
+sara
+abelam
+nicobarese
+haitian
+northern marianan
+mongo
+tajikistani
+falkland islanders
+otomi
+hangaza
+chukchis
+sangirese
+kawesqar

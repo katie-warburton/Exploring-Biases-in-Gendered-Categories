@@ -1,0 +1,15 @@
+Concept	PROP_M	TOTAL_GEN_FREQ
+tao [men/male/women/female]	0.37267080745341613	161
+saramaka [men/male/women/female]	0.3732394366197183	142
+xavante [men/male/women/female]	0.3630573248407643	157
+yanomami [men/male/women/female]	0.29577464788732394	213
+fur [men/male/women/female]	0.1391941391941392	546
+kru [men/male/women/female]	0.19469026548672566	226
+latino [men/male/women/female]	0.19692400482509048	23212
+nez perce [men/male/women/female]	0.39914163090128757	466
+nuer [men/male/women/female]	0.38514442916093533	727
+luo [men/male/women/female]	0.3891977760127085	1259
+cornish [men/male/women/female]	0.16573816155988857	1436
+iatmul [men/male/women/female]	0.27979274611398963	193
+dani [men/male/women/female]	0.33724340175953077	341
+white [men/male/women/female]	0.3687500645870049	1257993
